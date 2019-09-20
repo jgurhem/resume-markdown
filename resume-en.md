@@ -98,10 +98,15 @@ __Software & Tools :__ MS Office, Latex
 ## Academic Research
 
 ### Conference Articles
-__J. Gurhem__, M. Tsuji, S. G. Petiton, and M. Sato, “Distributed and parallel programming paradigms on the k computer and a cluster,” in Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region, ser. HPC Asia 2019, Guangzhou, China: ACM, 2019, pp. 9–17, ISBN: 978-1-4503-6632-8.
+__J. Gurhem__, M. Tsuji, S. G. Petiton, and M. Sato, “Distributed and parallel programming paradigms on the k computer and a cluster,” in Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region, ser. HPC Asia 2019, Guangzhou, China: ACM, 2019, pp. 9–17, ISBN: 978-1-4503-6632-8. [pdf](https://dl.acm.org/citation.cfm?id=3293330)
 
 ### Talks
-__J. Gurhem__, "Programming Paradigm and Language Candidates for Extreme Scale Distributed and Parallel Computing" in MATHIAS 2018: Computational Science Engineering \& Data Science by TOTAL, Serris, France.
+__J. Gurhem__, "Distributed and Parallel Programming using Graphs of Tasks with a Scheduler Optimizing Data Migrations", PhD Day 2019 at Maison de la Simulation, June 2019, Saclay, France.
+
+__J. Gurhem__, "Programming Paradigm and Language Candidates for Extreme Scale Distributed and Parallel Computing", MATHIAS 2018 Computational Science Engineering & Data Science by
+TOTAL, Oct 2018, Serris, Paris, France.
+
+__J. Gurhem__, "Distributed and Parallel Dense Block Linear Algebra using YML and XMP", First French-Japanese-German on Programming and Computing for Exascale and Beyond, Embassy of France in Tokyo, April 2017, Tokyo, Japan.
 
 
 ## Extra-Curricular
