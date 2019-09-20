@@ -1,0 +1,112 @@
+# Jérôme Gurhem
+
+75013 Paris, France
+
+jerome.gurhem@univ-lille.fr
+
+
+## Education
+
+`March 2018 - March 2021`
+__PhD, Computer Science__
+```
+Thesis title : Distributed and Parallel Programming using Graphs of Tasks with a Scheduler Optimizing Data Migrations
+University of Lille (Lille, France)
+```
+
+`September 2014 - September 2017`
+__Polytech'Lille, Computer Science and Statistics__
+```
+Master in Computer Science and Applied Mathematics
+University of Lille (Lille, France)
+```
+
+`September 2016 - February 2017`
+__School of Computer Engineering__
+```
+Master in Informatics Engineering - Erasmus
+Technical University of Madrid (Boadilla del Monte, Spain)
+```
+
+`September 2012 - July 2014`
+__Undergraduate Studies__
+```
+Preparatory Classes in Mathematics and Physics: Specific training for competitive entry examinations for the French “Grandes Ecoles"
+Lycée Clémenceau (Reims, France)
+```
+
+`September 2009 - July 2012`
+__Baccalauréat__
+```
+Major : Mathematics
+Lycée Samuel Beckett (La Ferté-sous-Jouarre, France)
+```
+
+## School Projects
+
+`February 2017`
+__Degree Project at Polytech'Lille__
+```
+Distributed and parallel multi-level programming on supercomputers using YML+XMP, a development and execution environment for parallel and distributed applications based on a graph of PGAS components managed at runtime
+```
+
+## Work Experience
+
+`March 2017 - August 2017`
+__Parallel programming, CNRS Maison de la simulation__
+;
+Intern
+- Testing and programming YML/XMP applications on supercomputers
+- Evaluating and analysing performances of several applications
+- Studying and prototyping a new parallel version of the Kirchhoff migration
+
+
+`May 2016 - July 2016`
+__Management Tool Migration, Norman Info__
+;
+Intern
+- Use of SCRUM method to organize work
+- Organizing training session for the team to master the new tool
+- Adjusting the tool to feedbacks gathered during meetings with the team
+
+`August 2015`
+__Sorting, French Tax Office__
+;
+Intern
+- Understanding the sorting system of a big company
+- Managing time efficiently to do all the tasks
+- Helping others to be faster in their work
+
+## Formations
+`4 - 5 July 2019`
+__Introduction to Parallel Programming with HPX__
+
+`12 - 14 June 2019`
+__CEA-Riken Summer School - Mastering the Arm HPC ecosystem__
+
+`23 - 24 April 2018`
+__Parallel file systems and parallel IO libraries__
+
+## Technical Strengths
+
+__Programming Languages :__ C, C++, XMP, OpenACC, Java, Python, Bash
+
+__Programming Models :__ MPI, PaRSEC, HPX, Legion(Regent), YML+XMP, Pegasus
+
+__Software & Tools :__ MS Office, Latex
+
+## Academic Research
+
+### Conference Articles
+__J. Gurhem__, M. Tsuji, S. G. Petiton, and M. Sato, “Distributed and parallel programming paradigms on the k computer and a cluster,” in Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region, ser. HPC Asia 2019, Guangzhou, China: ACM, 2019, pp. 9–17, ISBN: 978-1-4503-6632-8.
+
+### Talks
+__J. Gurhem__, "Programming Paradigm and Language Candidates for Extreme Scale Distributed and Parallel Computing" in MATHIAS 2018: Computational Science Engineering \& Data Science by TOTAL, Serris, France.
+
+
+## Extra-Curricular
+Reading (Fantasy, Science-Fiction)
+
+Video Games (Minecraft)
+
+Programming (Minecraft extensions/mods in Java, MOOCs about computer science)
