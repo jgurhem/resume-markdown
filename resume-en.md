@@ -31,7 +31,7 @@ Technical University of Madrid (Boadilla del Monte, Spain)
 `September 2012 - July 2014`
 __Undergraduate Studies__
 ```
-Preparatory Classes in Mathematics and Physics: Specific training for competitive entry examinations for the French “Grandes Ecoles"
+Preparatory Classes in Mathematics and Physics: Specific training for competitive entry examinations for the French "Grandes Ecoles"
 Lycée Clémenceau (Reims, France)
 ```
 
