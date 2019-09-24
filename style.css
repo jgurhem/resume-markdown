@@ -1,12 +1,10 @@
 :root {
   --font-size: 15px;
-  --li-height: 10px;
 }
 
 @media print {
   :root {
     --font-size: 11px;
-    --li-height: 7px;
   }
 }
 
@@ -73,10 +71,6 @@ ul {
   word-wrap: break-word;
   white-space: pre-wrap;
   width: auto;
-}
-
-li {
-  height: var(--li-height);
 }
 
 code {
