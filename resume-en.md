@@ -10,7 +10,7 @@ jerome.gurhem@univ-lille.fr
 ## Education
 
 `March 2018 - March 2021`
-__PhD, Computer Science__
+__Ph.D. in Computer Science__
 ```
 Thesis title : Distributed and Parallel Programming using Graphs of Tasks with a Scheduler Optimizing Data Migrations
 University of Lille (Lille, France)
@@ -55,7 +55,7 @@ Distributed and parallel multi-level programming on supercomputers using YML+XMP
 ## Work Experience
 
 `March 2017 - August 2017`
-__Parallel programming, CNRS Maison de la simulation__
+__Parallel programming, CNRS USR3441 Maison de la simulation__
 ;
 Intern
 - Testing and programming YML/XMP applications on supercomputers
