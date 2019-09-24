@@ -6,6 +6,11 @@
 
 jerome.gurhem@univ-lille.fr
 
+## Current Research Domains
+
+__Numerical Linear Algebra :__ Solution of Linear Systems, LU Factorization, Gaussian Elimination, Gauss-Jordan Elimination, Matrix Vector Multiplication
+
+__HPC :__ Parallel Programming Models, Scientific Computing
 
 ## Education
 
