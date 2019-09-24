@@ -89,11 +89,15 @@ __CEA-Riken Summer School - Mastering the Arm HPC ecosystem__
 `23 - 24 April 2018`
 __Parallel file systems and parallel IO libraries__
 
-## Technical Strengths
+## Technical Skills
 
-__Programming Languages :__ C, C++, XMP, OpenACC, Java, Python, Bash
+__Programming Languages :__ C, C++, XcalableMP, OpenACC, Java, Python, Bash
 
-__Programming Models :__ MPI, PaRSEC, HPX, Legion(Regent), YML+XMP, Pegasus
+__Programming Models :__ MPI, PaRSEC, HPX, Legion(Regent), YML+XMP, Pegasus, TensorFlow
+
+__Computational Packages :__ BLAS, LAPACK, ScaLAPACK
+
+__Others :__ CMake, Makefile, Git
 
 __Software & Tools :__ MS Office, Latex
 
