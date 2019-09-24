@@ -54,6 +54,13 @@ Distributed and parallel multi-level programming on supercomputers using YML+XMP
 
 ## Work Experience
 
+`March 2018 - March 2021`
+__CNRS USR3441 Maison de la simulation__
+;
+Ph.D. Student
+- Subject : Distributed and Parallel Programming using Graphs of Tasks with a Scheduler Optimizing Data Migrations
+- Funded by TOTAL
+
 `March 2017 - August 2017`
 __Parallel programming, CNRS USR3441 Maison de la simulation__
 ;
