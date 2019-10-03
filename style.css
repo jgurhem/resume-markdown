@@ -73,6 +73,11 @@ ul {
   width: auto;
 }
 
+li {
+  margin-top: -0.7%;
+  margin-bottom: -0.7%;
+}
+
 code {
   background: #f0f0f0;
   font-family: "Inconsolata","Monaco","Consolas","Andale Mono","Bitstream Vera Sans Mono","Courier New",Courier,monospace;
