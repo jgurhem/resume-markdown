@@ -1,0 +1,15 @@
+h1 {
+  column-span: all;
+}
+
+pre code {
+  margin-left: 15px;
+}
+
+ul {
+  margin-left: 15px;
+}
+
+#doublecolumn {
+  columns: 2;
+}
