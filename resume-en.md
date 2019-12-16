@@ -6,6 +6,8 @@
 
 jerome.gurhem@univ-lille.fr
 
+<div id="doublecolumn">
+
 ## Current Research Domains
 
 __Numerical Linear Algebra :__ Solution of Linear Systems, LU Factorization, Gaussian Elimination, Gauss-Jordan Elimination, Matrix Vector Multiplication
@@ -133,3 +135,5 @@ Reading (Fantasy, Science-Fiction)
 Video Games (Minecraft)
 
 Programming (Minecraft extensions/mods in Java, MOOCs about computer science)
+
+</div>
