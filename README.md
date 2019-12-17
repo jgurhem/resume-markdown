@@ -18,4 +18,4 @@ The application depends on CommonMark and WeasyPrint.
 
 ## Downloads
 
-resume [pdf](https://github.com/jgurhem/resume-markdown/releases/download/refs%2Fheads%2Fjgurhem-patch-1/resume-en.pdf)
+My resume : [pdf](https://github.com/jgurhem/resume-markdown/releases/download/refs%2Fheads%2Fmaster/resume-en.pdf)
