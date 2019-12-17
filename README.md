@@ -6,13 +6,19 @@ To create a pdf file :
 python3 convert.py resume-en.md
 ```
 
-To create an html file :
+The option `--html` also generates the HTML which will be converted into pdf :
 
 ```
-cmark resume-en.md > resume-en.html
+python3 convert.py --html resume-en.md
 ```
 
-The HTML file and the Python application use the CSS file `style.css` to render the resume nicely.
+The option `--double-column` creates files in double columns :
+
+```
+python3 convert.py --double-column resume-en.md
+```
+
+The Python application use the CSS files `style.css` and `style_doublecolumn.css` to render the resume nicely.
 
 The application depends on CommonMark and WeasyPrint.
 

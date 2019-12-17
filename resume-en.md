@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
 # Jérôme Gurhem
 
 75013 Paris, France
