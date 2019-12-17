@@ -45,7 +45,7 @@ Lycée Clémenceau (Reims, France)
 ```
 
 `September 2009 - July 2012`
-__Baccalauréat__
+__Scientific Baccalauréat__
 ```
 Major : Mathematics
 Lycée Samuel Beckett (La Ferté-sous-Jouarre, France)
@@ -62,14 +62,14 @@ Distributed and parallel multi-level programming on supercomputers using YML+XMP
 ## Work Experience
 
 `March 2018 - March 2021`
-__CNRS USR3441 Maison de la simulation__
+__CNRS USR3441 Maison de la simulation, Saclay, France__
 ;
 Ph.D. Student
 - Subject : Distributed and Parallel Programming using Graphs of Tasks with a Scheduler Optimizing Data Migrations
 - Funded by TOTAL
 
 `March 2017 - August 2017`
-__Parallel programming, CNRS USR3441 Maison de la simulation__
+__Parallel programming, CNRS USR3441 Maison de la simulation, Saclay, France__
 ;
 Intern
 - Testing and programming YML/XMP applications on supercomputers
@@ -78,7 +78,7 @@ Intern
 
 
 `May 2016 - July 2016`
-__Management Tool Migration, Norman Info__
+__Management Tool Migration, Norman Info, Arras, France__
 ;
 Intern
 - Use of SCRUM method to organize work
@@ -86,7 +86,7 @@ Intern
 - Adjusting the tool to feedbacks gathered during meetings with the team
 
 `August 2015`
-__Sorting, French Tax Office__
+__Sorting, French Tax Office, Saint-Maur-des-Fossés, France__
 ;
 Intern
 - Understanding the sorting system of a big company
@@ -128,6 +128,12 @@ TOTAL, Oct 2018, Serris, Paris, France.
 
 __J. Gurhem__, "Distributed and Parallel Dense Block Linear Algebra using YML and XMP", First French-Japanese-German on Programming and Computing for Exascale and Beyond, Embassy of France in Tokyo, April 2017, Tokyo, Japan.
 
+## Languages
+__French :__ Native language
+
+__English :__ +++ (TOEIC : 835)
+
+__Spanish :__ ++
 
 ## Extra-Curricular
 Reading (Fantasy, Science-Fiction)
