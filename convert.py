@@ -9,7 +9,7 @@ parser.add_argument("-o", "--output", dest="output", help="Output file.", type=s
 parser.add_argument("--double-column", dest="dc", help="Use double columns.", action="store_true")
 args = parser.parse_args()
 
-with open(args.input) as fp:
+with open(args.input, encoding='utf-8') as fp:
   text = fp.read()
   html = commonmark.commonmark(text)
   html = HTML(string=html, encoding='utf-8')
