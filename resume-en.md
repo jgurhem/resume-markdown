@@ -92,6 +92,9 @@ Intern
 - Helping others to be faster in their work
 
 ## Formations
+`18 December 2019`
+__Introduction to machine learning in Python with Scikit-learn__
+
 `4 - 5 July 2019`
 __Introduction to Parallel Programming with HPX__
 
