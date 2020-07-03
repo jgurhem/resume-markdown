@@ -119,7 +119,9 @@ __Software & Tools :__ MS Office, Latex
 ## Academic Research
 
 ### Conference Articles
-__J. Gurhem__, M. Tsuji, S. G. Petiton, and M. Sato, "Distributed and Parallel Programming Paradigms on the K computer and a Cluster", in Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region, ser. HPC Asia 2019, Guangzhou, China: ACM, 2019, pp. 9–17, ISBN: 978-1-4503-6632-8. [pdf](https://dl.acm.org/citation.cfm?id=3293330)
+__J. Gurhem__, M. Tsuji, S. G. Petiton, and M. Sato, "Distributed and Parallel Programming Paradigms on the K computer and a Cluster", in Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region, ser. HPC Asia 2019, Guangzhou, China: ACM, 2019, pp. 9–17, ISBN: 978-1-4503-6632-8. [link](https://dl.acm.org/citation.cfm?id=3293330)
+
+__J. Gurhem__ and S. G. Petiton, “A current task-based programming paradigms analysis”, in Computational Science – ICCS 2020, V. V. Krzhizhanovskaya, G. Závodszky, M. H. Lees, J. J. Dongarra, P. M. A. Sloot, S. Brissos, and J. Teixeira, Eds., Cham: Springer International Publishing, 2020, pp. 203–216, ISBN: 978-3-030-50426-7. [link](https://doi.org/10.1007/978-3-030-50426-7_16)
 
 ### Talks
 __J. Gurhem__, "Distributed and Parallel Programming using Graphs of Tasks with a Scheduler Optimizing Data Migrations", PhD Day 2019 at Maison de la Simulation, June 2019, Saclay, France.
