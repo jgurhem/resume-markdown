@@ -92,6 +92,9 @@ Intern
 - Helping others to be faster in their work
 
 ## Formations
+`7 July - 9 September 2020 (2 h/week)`
+__Kokkos Lecture Series__
+
 `18 December 2019`
 __Introduction to machine learning in Python with Scikit-learn__
 
