@@ -66,6 +66,14 @@ Ph.D. Student
 - Subject : Distributed and Parallel Programming using Graphs of Tasks with a Scheduler Optimizing Data Migrations
 - Funded by TOTAL
 
+`March 2018 - June 2018`
+__Institut des Sciences et Techniques des Yvelines, Vélizy, France__
+;
+Part-time Teacher
+- classes : Operating Systems Unix
+- topics : Unix basic commands, bash scripts, C processes
+- 60 hours of practical courses
+
 `March 2017 - August 2017`
 __Parallel programming, CNRS USR3441 Maison de la simulation, Saclay, France__
 ;
