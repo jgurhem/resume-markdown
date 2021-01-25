@@ -135,6 +135,8 @@ __J. Gurhem__, M. Tsuji, S. G. Petiton, and M. Sato, "Distributed and Parallel P
 __J. Gurhem__ and S. G. Petiton, “A current task-based programming paradigms analysis”, in Computational Science – ICCS 2020, V. V. Krzhizhanovskaya, G. Závodszky, M. H. Lees, J. J. Dongarra, P. M. A. Sloot, S. Brissos, and J. Teixeira, Eds., Cham: Springer International Publishing, 2020, pp. 203–216, ISBN: 978-3-030-50426-7. [link](https://doi.org/10.1007/978-3-030-50426-7_16)
 
 ### Talks
+S. G. Petiton, __J. Gurhem__, H. Calandra, " A Taxonomy of Distributed and Parallel Languages for High Performance Tasks-Based Multilevel Computing", SIAM Conference on Parallel Processing for Scientific Computing, February 2020, Seattle, U.S.
+
 __J. Gurhem__, "Distributed and Parallel Programming using Graphs of Tasks with a Scheduler Optimizing Data Migrations", PhD Day 2019 at Maison de la Simulation, June 2019, Saclay, France.
 
 __J. Gurhem__, "Programming Paradigm and Language Candidates for Extreme Scale Distributed and Parallel Computing", MATHIAS 2018 Computational Science Engineering & Data Science by
