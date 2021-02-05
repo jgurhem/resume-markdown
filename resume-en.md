@@ -30,7 +30,7 @@ __HPC :__ Parallel Programming Models, Scientific Computing
 `March 2018 - March 2021`
 __Ph.D. in Computer Science__
 ```
-Thesis title : Distributed and Parallel Programming using Graphs of Tasks with a Scheduler Optimizing Data Migrations
+Thesis title : Distributed and Parallel Programming Paradigms Using Graphs of Tasks for Post-Petascale Supercomputers
 University of Lille (Lille, France)
 ```
 
@@ -76,7 +76,7 @@ Distributed and parallel multi-level programming on supercomputers using YML+XMP
 __CNRS USR3441 Maison de la simulation, Saclay, France__
 ;
 Ph.D. Student
-- Subject : Distributed and Parallel Programming using Graphs of Tasks with a Scheduler Optimizing Data Migrations
+- Subject : Distributed and Parallel Programming Paradigms Using Graphs of Tasks for Post-Petascale Supercomputers
 - Funded by TOTAL
 
 `March 2018 - June 2018`
