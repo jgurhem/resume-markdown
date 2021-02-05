@@ -99,7 +99,8 @@ Intern
 - Managing time efficiently to do all the tasks
 - Helping others to be faster in their work
 
-## Formations
+## Training
+
 `7 July - 9 September 2020 (2 h/week)`
 __Kokkos Lecture Series__
 
