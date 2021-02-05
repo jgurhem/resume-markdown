@@ -113,9 +113,14 @@ Intern
 - Helping others to be faster in their work
 
 ## Training
+`25 January - 8 February 2021 (1 d/week)`
+__[ONLINE] Modern Scientific C++ @ MdlS/Idris__
+
+`September - December 2020`
+__[MOOC] Deep Learning (Inria)__
 
 `7 July - 9 September 2020 (2 h/week)`
-__Kokkos Lecture Series__
+__[ONLINE] Kokkos Lecture Series__
 
 `18 December 2019`
 __Introduction to machine learning in Python with Scikit-learn__
