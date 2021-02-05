@@ -4,6 +4,19 @@
 
 jerome.gurhem@univ-lille.fr
 
+----
+
+> Jérôme Gurhem is a final-year PhD student in Computer Science at University of Lille supported by TOTAL SA under the supervision of Professor Serge Petiton.
+> He is also affiliated with the Centre de Recherche en Informatique Signal et Automatique de Lille (CRIStAL) and Maison de la Simulation at Saclay in France, two research laboratories under the French Scientific Research National Center (CNRS) tutelage.
+> He holds a master degree in Computer Science and Applied Mathematics from the French engineering school Polytech Lille.
+> His research interests focus on task based programming languages and paradigms.
+> During his engineering school internship, he started working on block wise linear algebra algorithms to solve linear systems then implemented them as distributed and parallel task based applications with YML+XMP.
+> As a doctoral student, he continues to implement these algorithms with other task based programming models.
+> He also applies this knowledge to sequences of sparse matrix vector products and a simplified version of the Kirchhoff seismic pre-stack depth migration.
+> He deployed applications and ran experiments on the K Computer and Total PangeaII, in particular.
+
+----
+
 <div id="doublecolumn">
 
 ## Current Research Domains
