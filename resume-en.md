@@ -76,8 +76,10 @@ Distributed and parallel multi-level programming on supercomputers using YML+XMP
 __CNRS USR3441 Maison de la simulation, Saclay, France__
 ;
 Ph.D. Student
-- Subject : Distributed and Parallel Programming Paradigms Using Graphs of Tasks for Post-Petascale Supercomputers
-- Funded by TOTAL
+- Research and classification of task based programming paradigms
+- Design, implementation and deployment of task based scientific applications on supercomputers
+- Experiments with block based direct methods to solve dense linear systems, sparse matrix vector products and Kirchhoff seismic pre-stack depth migration
+- Partially supported by TOTAL SA
 
 `March 2018 - June 2018`
 __Institut des Sciences et Techniques des Yvelines, Vélizy, France__
