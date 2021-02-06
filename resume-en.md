@@ -116,8 +116,8 @@ Intern
 `25 January - 8 February 2021 (1 d/week)`
 __[ONLINE] Modern Scientific C++ @ MdlS/Idris__
 
-`September - December 2020`
-__[MOOC] Deep Learning (Inria)__
+`November - December 2020`
+__[MOOC] Deep Learning (CNAM)__
 
 `7 July - 9 September 2020 (2 h/week)`
 __[ONLINE] Kokkos Lecture Series__
