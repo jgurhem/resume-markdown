@@ -140,7 +140,7 @@ __Parallel file systems and parallel IO libraries__
 
 __Programming Languages :__ C, C++, XcalableMP, OpenACC, Java, Python, Bash
 
-__Programming Models :__ MPI, PaRSEC, HPX, Legion(Regent), YML+XMP, Pegasus, TensorFlow
+__Programming Models :__ MPI, MPI+OpenMP, PaRSEC, HPX, Legion(Regent), YML+XMP, Pegasus, TensorFlow
 
 __Computational Packages :__ BLAS, LAPACK, ScaLAPACK
 
