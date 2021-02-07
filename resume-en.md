@@ -144,7 +144,11 @@ __Programming Models :__ MPI, MPI+OpenMP, PaRSEC, HPX, Legion(Regent), YML+XMP, 
 
 __Computational Packages :__ BLAS, LAPACK, ScaLAPACK
 
-__Others :__ CMake, Makefile, Git
+__Others :__ CMake, Makefile, Git, SQL
+
+__Container Systems :__ Docker, Singularity
+
+__Python Packages :__ Matplotlib, SQLite3, JSON, numpy, re, subprocess
 
 __Software & Tools :__ MS Office, Latex
 
