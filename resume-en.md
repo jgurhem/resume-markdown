@@ -72,6 +72,15 @@ Distributed and parallel multi-level programming on supercomputers using YML+XMP
 
 ## Work Experience
 
+`March 2021 - July 2021`
+__CNRS USR3441 Maison de la simulation, Saclay, France__
+;
+Postdoctoral researcher
+- Parallelization of Graph Convolutional Neural Network training and predicition library
+- Use of multiple versions of PageRank to compute rankings used in the convolutional layers
+- Possible implementation with Dask or Ray
+- Experiments on parallel and distributed resources
+
 `March 2018 - March 2021`
 __CNRS USR3441 Maison de la simulation, Saclay, France__
 ;
