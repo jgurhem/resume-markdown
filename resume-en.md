@@ -167,6 +167,8 @@ __Software & Tools :__ MS Office, Latex
 __J. Gurhem__, M. Tsuji, S. G. Petiton, and M. Sato, "Distributed and Parallel Programming Paradigms on the K computer and a Cluster", in Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region, ser. HPC Asia 2019, Guangzhou, China: ACM, 2019, pp. 9–17, ISBN: 978-1-4503-6632-8. [link](https://dl.acm.org/citation.cfm?id=3293330)
 
 __J. Gurhem__ and S. G. Petiton, “A current task-based programming paradigms analysis”, in Computational Science – ICCS 2020, V. V. Krzhizhanovskaya, G. Závodszky, M. H. Lees, J. J. Dongarra, P. M. A. Sloot, S. Brissos, and J. Teixeira, Eds., Cham: Springer International Publishing, 2020, pp. 203–216, ISBN: 978-3-030-50426-7. [link](https://doi.org/10.1007/978-3-030-50426-7_16)
+### Extended Abstracts
+__J. Gurhem__, H. Calandra and S. G. Petiton, "Task-Based Sparse Matrix Vector Product and Kirchhoff Migration", 2021 Oil & Gas HPC Conference
 
 ### Talks
 S. G. Petiton, __J. Gurhem__, H. Calandra, " A Taxonomy of Distributed and Parallel Languages for High Performance Tasks-Based Multilevel Computing", SIAM Conference on Parallel Processing for Scientific Computing, February 2020, Seattle, U.S.
