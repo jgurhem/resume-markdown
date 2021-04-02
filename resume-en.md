@@ -184,9 +184,7 @@ __J. Gurhem__, "Distributed and Parallel Dense Block Linear Algebra using YML an
 ## Languages
 __French :__ Native language
 
-__English :__ +++ (TOEIC : 835)
-
-__Spanish :__ ++
+__English :__ Fluent
 
 ## Extra-Curricular
 Reading (Fantasy, Science-Fiction)
