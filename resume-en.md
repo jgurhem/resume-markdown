@@ -65,9 +65,8 @@ __CNRS USR3441 Maison de la simulation, Saclay, France__
 ;
 Postdoctoral researcher
 - Parallelization of Graph Convolutional Neural Network training and predicition library
-- Use of multiple versions of PageRank to compute rankings used in the convolutional layers
-- Possible implementation with Dask or Ray
-- Experiments on parallel and distributed resources
+- Port MPI+OpenMP implementation of SPMV to A64FX architecture with vectorization
+- Performance evaluation on Fugaku
 
 `March 2018 - March 2021`
 __CNRS USR3441 Maison de la simulation, Saclay, France__
