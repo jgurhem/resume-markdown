@@ -19,6 +19,7 @@ __HPC :__ Parallel Programming Models, Scientific Computing
 __Ph.D. in Computer Science__
 ```
 Thesis title : Distributed and Parallel Programming Paradigms Using Graphs of Tasks for Post-Petascale Supercomputers
+Advisor : Pr. Serge G. Petiton
 University of Lille (Lille, France)
 ```
 
