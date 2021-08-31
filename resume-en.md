@@ -61,6 +61,12 @@ Distributed and parallel multi-level programming on supercomputers using YML+XMP
 
 ## Work Experience
 
+`August 2021 - Present`
+__ANEO, Boulogne-Billancourt, France__
+;
+HPC Consultant
+- develop a portable HTC scheduler on premise and on multiple cloud providers with Kubernetes and Terraform
+
 `March 2021 - July 2021`
 __CNRS USR3441 Maison de la simulation, Saclay, France__
 ;
