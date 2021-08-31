@@ -1,0 +1,6 @@
+name: cvmd
+channels:
+  - conda-forge
+dependencies:
+  - weasyprint
+  - commonmark

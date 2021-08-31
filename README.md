@@ -1,5 +1,6 @@
 # resume-markdown
 
+## PDF creation
 To create a pdf file :
 
 ```
@@ -21,6 +22,17 @@ python3 convert.py --double-column resume-en.md
 The Python application use the CSS files `style.css` and `style_doublecolumn.css` to render the resume nicely.
 
 The application depends on CommonMark and WeasyPrint.
+
+## Dependencies installation
+```
+conda env create -f environment.yaml
+conda activate cvmd
+```
+## Dependencies uninstallation
+```
+conda deactivate
+conda env delete cvmd
+```
 
 ## Downloads
 
