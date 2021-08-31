@@ -1,8 +1,12 @@
 # Jérôme Gurhem
 
-75013 Paris, France
+92800 Puteaux, France
 
-jerome.gurhem@univ-lille.fr
+jerome.gurhem@aneo.fr
+
+[LinkedIn](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-gurhem-2485a7ba/)
+
+[GitHub](https://github.com/jgurhem)
 
 
 <div id="doublecolumn">
