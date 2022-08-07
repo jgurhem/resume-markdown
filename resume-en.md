@@ -135,7 +135,7 @@ __Google Cloud Certified - Professional Cloud Architect__
 
 ## Technical Skills
 
-__Programming Languages :__ C# (.Net5, .Net6), Python, C, C++, Bash <div class="hide-old-skills">, XcalableMP, OpenACC, Java</div>
+__Programming Languages :__ C# (.Net5, .Net6), Python, C, C++, Bash<span class="hide-old-skills">, XcalableMP, OpenACC, Java</span>
 
 __AWS :__ S3, EC2, SQS, AmazonMQ, DynamoDB, Elasticache (Redis), EKS, Cloud9
 
