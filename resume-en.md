@@ -10,12 +10,15 @@ jerome.gurhem@aneo.fr
 
 
 <div id="doublecolumn">
+<div id="current-research-domains">
 
 ## Current Research Domains
 
 __Numerical Linear Algebra :__ Solution of Linear Systems, LU Factorization, Gaussian Elimination, Gauss-Jordan Elimination, Matrix Vector Multiplication
 
 __HPC :__ Parallel Programming Models, Scientific Computing
+
+</div>
 
 ## Education
 
@@ -55,6 +58,8 @@ Major : Mathematics
 Lycée Samuel Beckett (La Ferté-sous-Jouarre, France)
 ```
 
+<div id="shool-projects">
+
 ## School Projects
 
 `February 2017`
@@ -63,13 +68,16 @@ __Degree Project at Polytech'Lille__
 Distributed and parallel multi-level programming on supercomputers using YML+XMP, a development and execution environment for parallel and distributed applications based on a graph of PGAS components managed at runtime
 ```
 
+</div>
+
 ## Work Experience
 
 `August 2021 - Present`
 __ANEO, Boulogne-Billancourt, France__
 ;
 HPC Consultant
-- develop a portable HTC scheduler on premise and on multiple cloud providers with Kubernetes and Terraform
+- Develop [ArmoniK](https://github.com/aneoconsulting/ArmoniK), an on premise and cloud providers agnostic HTC scheduler based on Kubernetes and Terraform
+- Technical evaluation of candidates during their recruiting
 
 `March 2021 - July 2021`
 __CNRS USR3441 Maison de la simulation, Saclay, France__
@@ -104,7 +112,6 @@ Intern
 - Evaluating and analysing performances of several applications
 - Studying and prototyping a new parallel version of the Kirchhoff migration
 
-
 `May 2016 - July 2016`
 __Management Tool Migration, Norman Info, Arras, France__
 ;
@@ -121,7 +128,39 @@ Intern
 - Managing time efficiently to do all the tasks
 - Helping others to be faster in their work
 
-## Training
+## Certificates
+
+`December 2021 (expiration : December 2023)`
+__Google Cloud Certified - Professional Cloud Architect__
+
+## Technical Skills
+
+__Programming Languages :__ C# (.Net5, .Net6), Python, C, C++, Bash <div class="hide-old-skills">, XcalableMP, OpenACC, Java</div>
+
+__AWS :__ S3, EC2, SQS, AmazonMQ, DynamoDB, Elasticache (Redis), EKS, Cloud9
+
+__CI/CD :__ GitHub, Azure Pipelines, Terraform
+
+__Containerization :__ Docker, Kubernetes, Singularity
+
+<div class="hide-old-skills">
+
+__Programming Models :__ MPI, MPI+OpenMP, PaRSEC, HPX, Legion(Regent), YML+XMP, Pegasus, TensorFlow
+
+__Computational Packages :__ BLAS, LAPACK, ScaLAPACK
+
+__Others :__ CMake, Makefile, Git, SQL
+
+__Python Packages :__ Matplotlib, SQLite3, JSON, numpy, re, subprocess
+
+__Software & Tools :__ MS Office, Latex
+
+</div>
+
+
+<div id="courses">
+
+## Courses
 `25 January - 8 February 2021 (1 d/week)`
 __[ONLINE] Modern Scientific C++ @ MdlS/Idris__
 
@@ -143,21 +182,7 @@ __CEA-Riken Summer School - Mastering the Arm HPC ecosystem__
 `23 - 24 April 2018`
 __Parallel file systems and parallel IO libraries__
 
-## Technical Skills
-
-__Programming Languages :__ C, C++, XcalableMP, OpenACC, Java, Python, Bash
-
-__Programming Models :__ MPI, MPI+OpenMP, PaRSEC, HPX, Legion(Regent), YML+XMP, Pegasus, TensorFlow
-
-__Computational Packages :__ BLAS, LAPACK, ScaLAPACK
-
-__Others :__ CMake, Makefile, Git, SQL
-
-__Container Systems :__ Docker, Singularity
-
-__Python Packages :__ Matplotlib, SQLite3, JSON, numpy, re, subprocess
-
-__Software & Tools :__ MS Office, Latex
+</div>
 
 ## Academic Research
 

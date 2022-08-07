@@ -84,3 +84,16 @@ code {
   width: auto;
 }
 
+/* hide div with id= */
+#current-research-domains {
+  display: none;
+}
+
+#shool-projects {
+  display: none;
+}
+
+/* hide div with class=*/
+.hide-old-skills {
+  display: none;
+}
