@@ -162,9 +162,11 @@ __Software & Tools :__ MS Office, Latex
 ## Academic Research
 
 ### Conference Articles
-__J. Gurhem__, H. Calandra and S. G. Petiton, "Parallel and Distributed Task-Based Kirchhoff Seismic Pre-Stack Depth Migration Application", in 20th International Symposium on Parallel and Distributed Computing (ISPDC 2021), Cluj-Napoca, Romania.
+M. Vandromme, __J. Gurhem__, M. Tsuji, S. G. Petiton, and M. Sato, "Scaling the PageRank Algorithm for Very Large Graphs on the Fugaku Supercomputer", Computational Science - ICCS 2022 - 22nd International Conference, London, UK, June 21-23, 2022. [link](https://doi.org/10.1007/978-3-031-08751-6_28)
 
-__J. Gurhem__, M. Vandromme, M. Tsuji, S. G. Petiton, and M. Sato, "Sequences of Sparse Matrix-Vector Multiplication on Fugaku’s A64FX processors", EAHPC-2021 - Embracing Arm for High Performance Computing Workshop.
+__J. Gurhem__, H. Calandra and S. G. Petiton, "Parallel and Distributed Task-Based Kirchhoff Seismic Pre-Stack Depth Migration Application", in 20th International Symposium on Parallel and Distributed Computing (ISPDC 2021), Cluj-Napoca, Romania. [link](https://doi.org/10.1109/ispdc52870.2021.9521599)
+
+__J. Gurhem__, M. Vandromme, M. Tsuji, S. G. Petiton, and M. Sato, "Sequences of Sparse Matrix-Vector Multiplication on Fugaku’s A64FX processors", EAHPC-2021 - Embracing Arm for High Performance Computing Workshop. [link](https://doi.org/10.1109/Cluster48925.2021.00111)
 
 __J. Gurhem__ and S. G. Petiton, “A current task-based programming paradigms analysis”, in Computational Science – ICCS 2020, V. V. Krzhizhanovskaya, G. Závodszky, M. H. Lees, J. J. Dongarra, P. M. A. Sloot, S. Brissos, and J. Teixeira, Eds., Cham: Springer International Publishing, 2020, pp. 203–216, ISBN: 978-3-030-50426-7. [link](https://doi.org/10.1007/978-3-030-50426-7_16)
 
