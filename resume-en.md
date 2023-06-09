@@ -75,8 +75,9 @@ Distributed and parallel multi-level programming on supercomputers using YML+XMP
 `August 2021 - Present`
 __ANEO, Boulogne-Billancourt, France__
 ;
-HPC Consultant
-- Develop [ArmoniK](https://github.com/aneoconsulting/ArmoniK), an on premise and cloud providers agnostic HTC scheduler based on Kubernetes and Terraform
+HPC/Cloud Expert Consultant, Tech Lead
+- Lead and Develop [ArmoniK](https://github.com/aneoconsulting/ArmoniK) from scratch to industrialization
+- ArmoniK is an Open-Source HTC orchestrator based on Kubernetes and Terraform managing hybrid multi-cloud computations
 - Technical evaluation of candidates during their recruiting
 
 `March 2021 - July 2021`
