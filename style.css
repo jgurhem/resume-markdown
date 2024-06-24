@@ -57,7 +57,7 @@ pre code {
   background: #f5f5ff;
   font-family: "Inconsolata","Monaco","Consolas","Andale Mono","Bitstream Vera Sans Mono","Courier New",Courier,monospace;
   display: block;
-  margin-left: 30px;
+  margin-left: 10px;
   padding: 15px 16px 14px;
   word-wrap: break-word;
   white-space: pre-wrap;
@@ -67,7 +67,7 @@ pre code {
 ul {
   background: #f5f5ff;
   font-family: "Inconsolata","Monaco","Consolas","Andale Mono","Bitstream Vera Sans Mono","Courier New",Courier,monospace;
-  margin-left: 30px;
+  margin-left: 10px;
   word-wrap: break-word;
   white-space: pre-wrap;
   width: auto;
@@ -76,6 +76,12 @@ ul {
 li {
   margin-top: -0.7%;
   margin-bottom: -0.7%;
+  margin-left: -20px;
+  padding-bottom: 0;
+}
+
+li ul li {
+  margin-left: -30px;
 }
 
 code {
