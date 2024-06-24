@@ -97,14 +97,6 @@ Ph.D. Student
 - Experiments with block based direct methods to solve dense linear systems, sparse matrix vector products and Kirchhoff seismic pre-stack depth migration
 - Partially supported by TOTAL SA
 
-`March 2018 - June 2018`
-__Institut des Sciences et Techniques des Yvelines, Vélizy, France__
-;
-Part-time Teacher
-- classes : Operating Systems Unix
-- topics : Unix basic commands, bash scripts, C processes
-- 60 hours of practical courses
-
 `March 2017 - August 2017`
 __Parallel programming, CNRS USR3441 Maison de la simulation, Saclay, France__
 ;
@@ -128,6 +120,32 @@ Intern
 - Understanding the sorting system of a big company
 - Managing time efficiently to do all the tasks
 - Helping others to be faster in their work
+
+
+## Lecturer
+
+`December 2022 - Present`
+__Université de Versailles Saint Quentin - High Performance Master, Guyancourt, France__
+- Classes : Numerical calculus
+- topics : Iterative methods to solve linear systems, band matrices, Lapack, BLAS
+- 12 hours of practical courses
+
+
+`January 2022 - Present`
+__Institut des Sciences et Techniques des Yvelines, Vélizy, France__
+- Classes : Advanced Operating Systems
+- Topics : Elf format, process scheduling, threading, virtual memory
+- Student project: implementing a Shell in C
+- Lecture on "Changes in application development brought by Cloud Computing"
+- 2 hours lecture + 40 hours of practical courses
+
+
+`March 2018 - June 2018`
+__Institut des Sciences et Techniques des Yvelines, Vélizy, France__
+- Classes : Operating Systems
+- Topics : Unix basic commands, bash scripts, C processes
+- 60 hours of practical courses
+
 
 ## Certificates
 
