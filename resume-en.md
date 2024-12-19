@@ -159,7 +159,7 @@ __Google Cloud Certified - Professional Cloud Architect__
 
 ## Technical Skills
 
-__Programming Languages :__ C# (.Net5, .Net6), Python, C, C++, Bash<span class="hide-old-skills">, XcalableMP, OpenACC, Java</span>
+__Programming Languages :__ C#, Python, Rust, Bash<span class="hide-old-skills">, C, C++, XcalableMP, OpenACC, Java</span>
 
 __AWS :__ S3, EC2, SQS, AmazonMQ, DynamoDB, Elasticache (Redis), EKS, Cloud9
 
@@ -210,7 +210,12 @@ __Parallel file systems and parallel IO libraries__
 
 ## Academic Research
 
+### Technical reports
+
+Q. Delamea, __J. Gurhem__, D. Brasseur, D. Diakite, E. Soubiran, F. Dewas, F. Lemaitre, J. Fonseca, M. Elflitty, L. Ziane Khodja, A. Louvion, Y. Kharouni, D. Dubuc, N. Gruel, W. Kirschenmann, "ArmoniK, A Fault-Tolerant General-Purpose Distributed Computing Framework For Massive Task-Based Workloads", Technical report, August, 2023. [link](https://www.amazon.com/ArmoniK-Fault-Tolerant-General-Purpose-Distributed-Task-Based/dp/B0D3BPQCRZ)
+
 ### Conference Articles
+
 M. Vandromme, __J. Gurhem__, M. Tsuji, S. G. Petiton, and M. Sato, "Scaling the PageRank Algorithm for Very Large Graphs on the Fugaku Supercomputer", Computational Science - ICCS 2022 - 22nd International Conference, London, UK, June 21-23, 2022. [link](https://doi.org/10.1007/978-3-031-08751-6_28)
 
 __J. Gurhem__, H. Calandra and S. G. Petiton, "Parallel and Distributed Task-Based Kirchhoff Seismic Pre-Stack Depth Migration Application", in 20th International Symposium on Parallel and Distributed Computing (ISPDC 2021), Cluj-Napoca, Romania. [link](https://doi.org/10.1109/ispdc52870.2021.9521599)
@@ -222,9 +227,11 @@ __J. Gurhem__ and S. G. Petiton, “A current task-based programming paradigms a
 __J. Gurhem__, M. Tsuji, S. G. Petiton, and M. Sato, "Distributed and Parallel Programming Paradigms on the K computer and a Cluster", in Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region, ser. HPC Asia 2019, Guangzhou, China: ACM, 2019, pp. 9–17, ISBN: 978-1-4503-6632-8. [link](https://dl.acm.org/citation.cfm?id=3293330)
 
 ### Extended Abstracts
+
 __J. Gurhem__, H. Calandra and S. G. Petiton, "Task-Based Sparse Matrix Vector Product and Kirchhoff Migration", 2021 Oil & Gas HPC Conference
 
 ### Talks
+
 S. G. Petiton, __J. Gurhem__, H. Calandra, "A Taxonomy of Distributed and Parallel Languages for High Performance Tasks-Based Multilevel Computing", SIAM Conference on Parallel Processing for Scientific Computing, February 2020, Seattle, U.S.
 
 __J. Gurhem__, "Distributed and Parallel Programming using Graphs of Tasks with a Scheduler Optimizing Data Migrations", PhD Day 2019 at Maison de la Simulation, June 2019, Saclay, France.
@@ -235,11 +242,13 @@ TOTAL, Oct 2018, Serris, Paris, France.
 __J. Gurhem__, "Distributed and Parallel Dense Block Linear Algebra using YML and XMP", First French-Japanese-German on Programming and Computing for Exascale and Beyond, Embassy of France in Tokyo, April 2017, Tokyo, Japan.
 
 ## Languages
+
 __French :__ Native language
 
 __English :__ Fluent
 
 ## Extra-Curricular
+
 Reading (Fantasy, Science-Fiction)
 
 Video Games (Minecraft)
