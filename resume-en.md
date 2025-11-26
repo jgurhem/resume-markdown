@@ -216,6 +216,8 @@ Q. Delamea, __J. Gurhem__, D. Brasseur, D. Diakite, E. Soubiran, F. Dewas, F. Le
 
 ### Conference Articles
 
+Q. Delamea, J. Burman, __J. Gurhem__, M. Khairallah, W. Kirschenmann, F. Lemaitre and S. Vialle, "Cloud-Agnostic Serverless Platform for Fault-Tolerant Execution of Dynamic Task Graphs", 2025 IEEE Cloud Summit, Washington, DC, USA, June 26-27, 2025. [link](https://doi.org/10.1109/Cloud-Summit64795.2025.00014)
+
 M. Vandromme, __J. Gurhem__, M. Tsuji, S. G. Petiton, and M. Sato, "Scaling the PageRank Algorithm for Very Large Graphs on the Fugaku Supercomputer", Computational Science - ICCS 2022 - 22nd International Conference, London, UK, June 21-23, 2022. [link](https://doi.org/10.1007/978-3-031-08751-6_28)
 
 __J. Gurhem__, H. Calandra and S. G. Petiton, "Parallel and Distributed Task-Based Kirchhoff Seismic Pre-Stack Depth Migration Application", in 20th International Symposium on Parallel and Distributed Computing (ISPDC 2021), Cluj-Napoca, Romania. [link](https://doi.org/10.1109/ispdc52870.2021.9521599)
@@ -231,6 +233,10 @@ __J. Gurhem__, M. Tsuji, S. G. Petiton, and M. Sato, "Distributed and Parallel P
 __J. Gurhem__, H. Calandra and S. G. Petiton, "Task-Based Sparse Matrix Vector Product and Kirchhoff Migration", 2021 Oil & Gas HPC Conference
 
 ### Talks
+
+__J. Gurhem__, "Resilient Orchestration of Compute-Intensive Workflows: The ArmoniK Framework for HPC and ML", DP2E-AI 2025 - 1st International Workshop on Distributed and Parallel Programming for Extreme-scale AI, June 16-17, 2025, Paris, France.
+
+__J. Gurhem__, "ArmoniK: un orchestrateur de calculs open source", Workshop CSMA Juniors 2025, May 14-16, 2025, Toulouse, France.
 
 S. G. Petiton, __J. Gurhem__, H. Calandra, "A Taxonomy of Distributed and Parallel Languages for High Performance Tasks-Based Multilevel Computing", SIAM Conference on Parallel Processing for Scientific Computing, February 2020, Seattle, U.S.
 
