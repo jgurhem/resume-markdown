@@ -236,6 +236,8 @@ __J. Gurhem__, H. Calandra and S. G. Petiton, "Task-Based Sparse Matrix Vector P
 
 ### Talks
 
+__J. Gurhem__, W.Kirschenmann, "ArmoniK : une solution open source pour l’orchestration et la distribution de calculs", COMPAS 2025 Conférence francophone d'informatique en Parallélisme, Architecture et Système, June 24-27, 2025, Bordeaux, France.
+
 __J. Gurhem__, "Resilient Orchestration of Compute-Intensive Workflows: The ArmoniK Framework for HPC and ML", DP2E-AI 2025 - 1st International Workshop on Distributed and Parallel Programming for Extreme-scale AI, June 16-17, 2025, Paris, France.
 
 __J. Gurhem__, "ArmoniK: un orchestrateur de calculs open source", Workshop CSMA Juniors 2025, May 14-16, 2025, Toulouse, France.
