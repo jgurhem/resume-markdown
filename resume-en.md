@@ -80,16 +80,16 @@ HPC/Cloud Expert Consultant
 - [ArmoniK](https://github.com/aneoconsulting/ArmoniK) Tech & Research Lead
   - Development from scratch to industrialization
   - Open-Source HTC orchestrator based on Kubernetes and Terraform managing hybrid multi-cloud computations
-  - Supervision and formation of trainees
+  - Supervision and mentoring of trainees
   - Leading a team of about 10 persons
 - Technical evaluation and qualification of candidates during recruiting
-- Contribute to InterFLOP project which provides a platform to analyze and control floating point calculus behavior
+- Contributes to InterFLOP project which provides a platform to analyze and control floating point calculus behavior
 
 `March 2021 - July 2021`
 __CNRS USR3441 Maison de la simulation, Saclay, France__
 ;
 Postdoctoral researcher
-- Parallelization of Graph Convolutional Neural Network training and predicition library
+- Parallelization of Graph Convolutional Neural Network training and prediction library
 - Port MPI+OpenMP implementation of SPMV to A64FX architecture with vectorization
 - Performance evaluation on Fugaku
 
