@@ -95,9 +95,14 @@ code {
   display: none;
 }
 
-#shool-projects {
+#school-projects {
   display: none;
 }
+
+#courses {
+  display: none;
+}
+
 
 /* hide div with class=*/
 .hide-old-skills {

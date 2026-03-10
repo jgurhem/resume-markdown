@@ -58,7 +58,7 @@ Major : Mathematics
 Lycée Samuel Beckett (La Ferté-sous-Jouarre, France)
 ```
 
-<div id="shool-projects">
+<div id="school-projects">
 
 ## School Projects
 
