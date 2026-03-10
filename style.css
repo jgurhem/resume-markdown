@@ -90,6 +90,15 @@ code {
   width: auto;
 }
 
+#summary p {
+  font-style: italic;
+  font-size: 1.1em;
+  border-left: 4px solid darkblue;
+  padding: 8px 12px;
+  background-color: #f5f5ff;
+  margin: 8px 0;
+}
+
 /* hide div with id= */
 #current-research-domains {
   display: none;
