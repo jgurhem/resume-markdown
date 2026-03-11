@@ -167,13 +167,19 @@ __Google Cloud Certified - Professional Cloud Architect__
 
 __Programming Languages :__ C#, Python, Rust, Bash<span class="hide-old-skills">, C, C++, XcalableMP, OpenACC, Java</span>
 
-__AWS :__ S3, EC2, SQS, AmazonMQ, DynamoDB, Elasticache (Redis), EKS, Cloud9
+__Cloud Platforms :__ AWS (S3, EC2, SQS, AmazonMQ, DynamoDB, Elasticache, EKS, CloudWatch), GCP(GCS, PubSub, GKE, Cloud Logging)
 
-__CI/CD :__ GitHub, Azure Pipelines, Terraform
+__Infrastructure & DevOps :__ Kubernetes, Terraform, Docker, GitHub Actions<span class="hide-old-skills">, Azure Pipelines</span>
 
-__Containerization :__ Docker, Kubernetes, Singularity
+__Distributed Systems & APIs :__ gRPC, Protocol Buffers, multi‑language SDK generation (C#, Java)
+
+__Observability & Reliability :__ Grafana, Prometheus metrics, autoscaling (HPA signals), fault‑tolerant design, checkpointing, logging/monitoring best practices
+
+__Security & Compliance :__ TLS, IAM, least‑privilege, image scanning & CVE hygiene
 
 <div class="hide-old-skills">
+
+__Containerization :__ Singularity
 
 __Programming Models :__ MPI, MPI+OpenMP, PaRSEC, HPX, Legion(Regent), YML+XMP, Pegasus, TensorFlow
 
