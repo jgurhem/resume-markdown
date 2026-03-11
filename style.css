@@ -159,18 +159,6 @@ li > code {
   font-size: 0.82em;
 }
 
-/* Summary section */
-#summary p {
-  font-style: italic;
-  font-size: 1em;
-  border-left: 3px solid var(--accent);
-  padding: 0.6rem 1rem;
-  background-color: var(--accent-light);
-  border-radius: 0 var(--radius) var(--radius) 0;
-  margin: 0.75rem 0;
-  color: #374151;
-}
-
 /* Hidden sections */
 #school-projects,
 #certifications,

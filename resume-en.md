@@ -8,11 +8,9 @@ jerome.gurhem@aneo.fr
 
 [GitHub](https://github.com/jgurhem)
 
-<div id="summary">
+## About me
 
 HPC and Cloud Expert Consultant with a Ph.D. in Computer Science and a strong background in scientific computing, parallel programming, and distributed systems. Currently Tech & Research Lead for [ArmoniK](https://github.com/aneoconsulting/ArmoniK) at ANEO, an open-source multi-cloud compute orchestrator, leading a technical team of ~10 people. Passionate about performance challenges and the industrialization of HPC solutions. Focused on leveraging distributed systems design and performance optimization expertise to tackle complex large-scale problems.
-
-</div>
 
 <div id="doublecolumn">
 
