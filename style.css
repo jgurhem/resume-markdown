@@ -1,5 +1,12 @@
 :root {
   --font-size: 15px;
+  --accent: #1a56db;
+  --accent-light: #e8f0fe;
+  --border: #d1d5db;
+  --text: #1f2937;
+  --muted: #6b7280;
+  --bg-code: #f8fafc;
+  --radius: 4px;
 }
 
 @media print {
@@ -8,43 +15,74 @@
   }
 }
 
+* {
+  box-sizing: border-box;
+}
+
 body {
-  background-color: white;
+  background-color: #f9fafb;
+  color: var(--text);
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
   font-size: var(--font-size);
-  margin-left: 20%;
-  width: 60%;
+  line-height: 1.6;
+  margin: 2rem auto;
+  max-width: 860px;
+  padding: 0 1.5rem;
 }
 
 @media print {
   body {
-    margin-left: 0px;
-    width: auto;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    max-width: none;
   }
 }
 
 @media handheld {
   body {
-    margin-left: 0px;
-    width: auto;
+    margin: 0;
+    padding: 0.5rem;
+    max-width: none;
   }
 }
 
 h1 {
-  color: black;
+  color: var(--text);
   text-align: center;
+  font-size: 2em;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.25rem;
 }
 
 h2 {
   color: white;
-  text-align: left;
-  padding: 10px;
-  border: 2px solid gray;
-  margin: 0; 
-  background-color: darkblue;
+  font-size: 0.85em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 0.5rem 1rem;
+  margin: 1.75rem 0 0.75rem 0;
+  background-color: var(--accent);
+  border-radius: var(--radius);
+  border-left: 4px solid #0e3a9e;
+}
+
+h3 {
+  color: var(--accent);
+  font-size: 0.95em;
+  font-weight: 600;
+  margin: 0.75rem 0 0.25rem 0;
+  padding: 0.25rem 0.75rem;
+  border-left: 3px solid var(--accent);
+  background-color: var(--accent-light);
+  border-radius: 0 var(--radius) var(--radius) 0;
 }
 
 p {
-  font-family: verdana;
+  font-family: inherit;
+  margin: 0.4rem 0;
 }
 
 pre {
@@ -54,66 +92,92 @@ pre {
 }
 
 pre code {
-  background: #f5f5ff;
-  font-family: "Inconsolata","Monaco","Consolas","Andale Mono","Bitstream Vera Sans Mono","Courier New",Courier,monospace;
+  background: var(--bg-code);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-family: "Cascadia Code", "Fira Code", "Inconsolata", "Consolas", "Courier New", monospace;
+  font-size: 0.9em;
   display: block;
-  margin-left: 10px;
-  padding: 15px 16px 14px;
+  margin: 0.25rem 0 0.5rem 0;
+  padding: 0.6rem 0.9rem;
   word-wrap: break-word;
   white-space: pre-wrap;
   width: auto;
+  color: #374151;
 }
 
 ul {
-  background: #f5f5ff;
-  font-family: "Inconsolata","Monaco","Consolas","Andale Mono","Bitstream Vera Sans Mono","Courier New",Courier,monospace;
-  margin-left: 10px;
+  background: var(--bg-code);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-family: "Cascadia Code", "Fira Code", "Inconsolata", "Consolas", "Courier New", monospace;
+  font-size: 0.9em;
+  margin: 0.25rem 0 0.5rem 0;
+  padding: 0.5rem 0.9rem 0.5rem 1.8rem;
   word-wrap: break-word;
   white-space: pre-wrap;
   width: auto;
+  color: #374151;
 }
 
 li {
   margin-top: -0.7%;
   margin-bottom: -0.7%;
-  margin-left: -20px;
   padding-bottom: 0;
 }
 
+li ul {
+  margin: 0 0 -1.6em 0;
+  border: none;
+  background: transparent;
+  padding: 0 0 0 1rem;
+  font-size: 1em;
+}
+
 li ul li {
-  margin-left: -30px;
+  margin-left: 0;
+  margin-top: -0.7%;
+  margin-bottom: -0.7%;
 }
 
 code {
-  background: #f0f0f0;
-  font-family: "Inconsolata","Monaco","Consolas","Andale Mono","Bitstream Vera Sans Mono","Courier New",Courier,monospace;
-  width: auto;
+  background: var(--bg-code);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  font-family: "Cascadia Code", "Fira Code", "Inconsolata", "Consolas", "Courier New", monospace;
+  font-size: 0.88em;
+  padding: 0.1em 0.35em;
+  color: #374151;
 }
 
+/* Date/tag badges rendered from backtick inline code in markdown headings */
+p > code,
+li > code {
+  background: var(--accent-light);
+  border-color: #bfdbfe;
+  color: var(--accent);
+  font-size: 0.82em;
+}
+
+/* Summary section */
 #summary p {
   font-style: italic;
-  font-size: 1.1em;
-  border-left: 4px solid darkblue;
-  padding: 8px 12px;
-  background-color: #f5f5ff;
-  margin: 8px 0;
+  font-size: 1em;
+  border-left: 3px solid var(--accent);
+  padding: 0.6rem 1rem;
+  background-color: var(--accent-light);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  margin: 0.75rem 0;
+  color: #374151;
 }
 
-/* hide div with id= */
-#current-research-domains {
-  display: none;
-}
-
-#school-projects {
-  display: none;
-}
-
+/* Hidden sections */
+#current-research-domains,
+#school-projects,
 #courses {
   display: none;
 }
 
-
-/* hide div with class=*/
 .hide-old-skills {
   display: none;
 }
