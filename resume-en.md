@@ -80,40 +80,41 @@ Distributed and parallel multi-level programming on supercomputers using YML+XMP
 `August 2021 - Present`
 __ANEO, Boulogne-Billancourt, France__
 ;
-HPC/Cloud Expert Consultant
+Tech & Research Lead in HPC/Cloud
 
-- [ArmoniK](https://github.com/aneoconsulting/ArmoniK) Tech & Research Lead
-  - Development from scratch to industrialization
-  - Open-Source HTC orchestrator based on Kubernetes and Terraform managing hybrid multi-cloud computations
-  - Supervision and mentoring of trainees
-  - Leading a team of about 10 persons
-- Technical evaluation and qualification of candidates during recruiting
-- Contributes to InterFLOP project which provides a platform to analyze and control floating point calculus behavior
+- Led the full lifecycle of ArmoniK, an open-source task-based high-throughput computing (HTC) framework designed for orchestrating large-scale, fault-tolerant workloads across distributed and elastic infrastructures; architected and implemented its core on Kubernetes and Terraform, and drove its evolution from initial design to production-grade deployments in hybrid multi-cloud environments
+- Head of Research & Development for ArmoniK, driving the technical roadmap, contributing to scientific publications, and leading Aneo’s involvement in the FPT4 project (successor to InterFLOP)
+- Managed and mentored a cross-functional team of ~10 PhD researchers, engineers, and interns, fostering technical growth and delivering high-quality software components
+- Supervised and co-directed a PhD thesis on the formal modeling, verification, and optimization of ArmoniK, bridging academic research and industrial application
+- Led the ArmoniK support team, defining and delivering Level 3 support services, coordinating with clients, and ensuring operational excellence across deployments
+- Acted as Manager Référent, supporting consultants’ career development through roadmap planning, feedback collection, and alignment with Aneo’s culture and HR processes
+- Designed and delivered internal training programs and technical workshops on ArmoniK, contributing to the creation of a comprehensive training catalog
+- Actively involved in strategic recruitment: defined job descriptions, conducted technical interviews, and contributed to onboarding and long-term hiring decisions
 
 `March 2021 - July 2021`
 __CNRS USR3441 Maison de la simulation, Saclay, France__
 ;
 Postdoctoral researcher
-- Parallelization of Graph Convolutional Neural Network training and prediction library
-- Port MPI+OpenMP implementation of SPMV to A64FX architecture with vectorization
-- Performance evaluation on Fugaku
+- Contributed to the development and parallelization of a Graph Convolutional Neural Network (GCNN) training and inference library, optimizing for large-scale graph data processing
+- Ported a hybrid MPI + OpenMP implementation of Sparse Matrix-Vector Multiplication (SpMV) to the A64FX architecture, leveraging SIMD vectorization for performance gains
+- Conducted performance benchmarking and scalability analysis on the Fugaku supercomputer, evaluating efficiency across thousands of cores
 
 `March 2018 - March 2021`
 __CNRS USR3441 Maison de la simulation, Saclay, France__
 ;
 Ph.D. Student
-- Research and classification of task based programming paradigms
-- Design, implementation and deployment of task based scientific applications on supercomputers
-- Experiments with block based direct methods to solve dense linear systems, sparse matrix vector products and Kirchhoff seismic pre-stack depth migration
+- Conducted a comprehensive survey and classification of task-based programming paradigms for high-performance computing applications
+- Designed, implemented, and deployed task-parallel scientific applications on large-scale supercomputing platforms
+- Performed experimental evaluations of block-based direct solvers for dense linear systems, sparse matrix-vector multiplication (SpMV), and Kirchhoff pre-stack depth migration in seismic imaging workflows
 - Partially supported by TOTAL SA
 
 `March 2017 - August 2017`
 __Parallel programming, CNRS USR3441 Maison de la simulation, Saclay, France__
 ;
 Intern
-- Testing and programming YML/XMP applications on supercomputers
-- Evaluating and analysing performances of several applications
-- Studying and prototyping a new parallel version of the Kirchhoff migration
+- Developed and tested parallel applications using YML and XMP programming models on high-performance computing platforms
+- Conducted performance evaluation and scalability analysis across multiple scientific workloads
+- Designed and prototyped a new parallel implementation of Kirchhoff pre-stack depth migration, targeting improved efficiency and scalability on supercomputers
 
 `May 2016 - July 2016`
 __Management Tool Migration, Norman Info, Arras, France__
