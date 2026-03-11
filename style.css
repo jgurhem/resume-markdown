@@ -95,7 +95,7 @@ pre code {
   background: var(--bg-code);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  font-family: "Cascadia Code", "Fira Code", "Inconsolata", "Consolas", "Courier New", monospace;
+  font-family: inherit;
   font-size: 0.9em;
   display: block;
   margin: 0.25rem 0 0.5rem 0;
@@ -110,7 +110,7 @@ ul {
   background: var(--bg-code);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  font-family: "Cascadia Code", "Fira Code", "Inconsolata", "Consolas", "Courier New", monospace;
+  font-family: inherit;
   font-size: 0.9em;
   margin: 0.25rem 0 0.5rem 0;
   padding: 0.5rem 0.9rem 0.5rem 1.8rem;
@@ -144,7 +144,7 @@ code {
   background: var(--bg-code);
   border: 1px solid var(--border);
   border-radius: 3px;
-  font-family: "Cascadia Code", "Fira Code", "Inconsolata", "Consolas", "Courier New", monospace;
+  font-family: inherit;
   font-size: 0.88em;
   padding: 0.1em 0.35em;
   color: #374151;
