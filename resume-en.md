@@ -31,6 +31,7 @@ __Polytech'Lille, Computer Science and Statistics__
 ```
 Master in Computer Science and Applied Mathematics
 University of Lille (Lille, France)
+Degree project: Distributed and parallel multi-level programming on supercomputers using YML+XMP, a development and execution environment for parallel and distributed applications based on a graph of PGAS components managed at runtime
 ```
 
 `September 2016 - February 2017`
@@ -54,17 +55,6 @@ Major : Mathematics
 Lycée Samuel Beckett (La Ferté-sous-Jouarre, France)
 ```
 
-<div id="school-projects">
-
-## School Projects
-
-`February 2017`
-__Degree Project at Polytech'Lille__
-```
-Distributed and parallel multi-level programming on supercomputers using YML+XMP, a development and execution environment for parallel and distributed applications based on a graph of PGAS components managed at runtime
-```
-
-</div>
 
 ## Work Experience
 
