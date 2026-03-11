@@ -257,8 +257,6 @@ __English :__ Fluent
 
 Reading (Fantasy, Science-Fiction)
 
-Video Games (Minecraft)
-
-Programming (Minecraft extensions/mods in Java, MOOCs about computer science)
+Game modding (Java) and programming MOOCs
 
 </div>
