@@ -15,15 +15,6 @@ HPC and Cloud Expert Consultant with a Ph.D. in Computer Science and a strong ba
 </div>
 
 <div id="doublecolumn">
-<div id="current-research-domains">
-
-## Current Research Domains
-
-__Numerical Linear Algebra :__ Solution of Linear Systems, LU Factorization, Gaussian Elimination, Gauss-Jordan Elimination, Matrix Vector Multiplication
-
-__HPC :__ Parallel Programming Models, Scientific Computing
-
-</div>
 
 ## Education
 
@@ -142,7 +133,7 @@ __Université de Versailles Saint Quentin - High Performance Master, Guyancourt,
 - 12 hours of practical courses
 
 
-`January 2022 - Present`
+`January 2022 - May 2025`
 __Institut des Sciences et Techniques des Yvelines, Vélizy, France__
 - Classes : Advanced Operating Systems
 - Topics : Elf format, process scheduling, threading, virtual memory
@@ -157,11 +148,14 @@ __Institut des Sciences et Techniques des Yvelines, Vélizy, France__
 - Topics : Unix basic commands, bash scripts, C processes
 - 60 hours of practical courses
 
+<div id="certifications">
 
-## Certificates
+## Certifications
 
 `December 2021 (expiration : December 2023)`
 __Google Cloud Certified - Professional Cloud Architect__
+
+</div>
 
 ## Technical Skills
 

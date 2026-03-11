@@ -172,8 +172,8 @@ li > code {
 }
 
 /* Hidden sections */
-#current-research-domains,
 #school-projects,
+#certifications,
 #courses {
   display: none;
 }
