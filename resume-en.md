@@ -14,46 +14,6 @@ HPC and Cloud Expert Consultant with a Ph.D. in Computer Science and a strong ba
 
 <div id="doublecolumn">
 
-## Education
-
-`March 2018 - March 2021`
-__Ph.D. in Computer Science__
-```
-Thesis title : Distributed and Parallel Programming Paradigms Using Graphs of Tasks for Post-Petascale Supercomputers
-Advisor : Pr. Serge G. Petiton
-University of Lille (Lille, France)
-```
-
-`September 2014 - September 2017`
-__Polytech'Lille, Computer Science and Statistics__
-```
-Master in Computer Science and Applied Mathematics
-University of Lille (Lille, France)
-Degree project: Distributed and parallel multi-level programming on supercomputers using YML+XMP, a development and execution environment for parallel and distributed applications based on a graph of PGAS components managed at runtime
-```
-
-`September 2016 - February 2017`
-__School of Computer Engineering__
-```
-Master in Informatics Engineering - Erasmus
-Technical University of Madrid (Boadilla del Monte, Spain)
-```
-
-`September 2012 - July 2014`
-__Undergraduate Studies__
-```
-Preparatory Classes in Mathematics and Physics: Specific training for competitive entry examinations for the French "Grandes Ecoles"
-Lycée Clémenceau (Reims, France)
-```
-
-`September 2009 - July 2012`
-__Scientific Baccalauréat__
-```
-Major : Mathematics
-Lycée Samuel Beckett (La Ferté-sous-Jouarre, France)
-```
-
-
 ## Work Experience
 
 `August 2021 - Present`
@@ -128,6 +88,46 @@ __Institut des Sciences et Techniques des Yvelines, Vélizy, France__
 - Classes : Operating Systems
 - Topics : Unix basic commands, bash scripts, C processes
 - 60 hours of practical courses
+
+
+## Education
+
+`March 2018 - March 2021`
+__Ph.D. in Computer Science__
+```
+Thesis title : Distributed and Parallel Programming Paradigms Using Graphs of Tasks for Post-Petascale Supercomputers
+Advisor : Pr. Serge G. Petiton
+University of Lille (Lille, France)
+```
+
+`September 2014 - September 2017`
+__Polytech'Lille, Computer Science and Statistics__
+```
+Master in Computer Science and Applied Mathematics
+University of Lille (Lille, France)
+Degree project: Distributed and parallel multi-level programming on supercomputers using YML+XMP, a development and execution environment for parallel and distributed applications based on a graph of PGAS components managed at runtime
+```
+
+`September 2016 - February 2017`
+__School of Computer Engineering__
+```
+Master in Informatics Engineering - Erasmus
+Technical University of Madrid (Boadilla del Monte, Spain)
+```
+
+`September 2012 - July 2014`
+__Undergraduate Studies__
+```
+Preparatory Classes in Mathematics and Physics: Specific training for competitive entry examinations for the French "Grandes Ecoles"
+Lycée Clémenceau (Reims, France)
+```
+
+`September 2009 - July 2012`
+__Scientific Baccalauréat__
+```
+Major : Mathematics
+Lycée Samuel Beckett (La Ferté-sous-Jouarre, France)
+```
 
 <div id="certifications">
 
