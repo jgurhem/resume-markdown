@@ -58,9 +58,7 @@ Lycée Samuel Beckett (La Ferté-sous-Jouarre, France)
 
 `August 2021 - Present`
 __ANEO, Boulogne-Billancourt, France__
-;
 Tech & Research Lead in HPC/Cloud
-
 - Led the full lifecycle of ArmoniK, an open-source task-based high-throughput computing (HTC) framework designed for orchestrating large-scale, fault-tolerant workloads across distributed and elastic infrastructures; architected and implemented its core on Kubernetes and Terraform, and drove its evolution from initial design to production-grade deployments in hybrid multi-cloud environments
 - Head of Research & Development for ArmoniK, driving the technical roadmap, contributing to scientific publications, and leading Aneo’s involvement in the FPT4 project (successor to InterFLOP)
 - Managed and mentored a cross-functional team of ~10 PhD researchers, engineers, and interns, fostering technical growth and delivering high-quality software components
@@ -72,7 +70,6 @@ Tech & Research Lead in HPC/Cloud
 
 `March 2021 - July 2021`
 __CNRS USR3441 Maison de la simulation, Saclay, France__
-;
 Postdoctoral researcher
 - Contributed to the development and parallelization of a Graph Convolutional Neural Network (GCNN) training and inference library, optimizing for large-scale graph data processing
 - Ported a hybrid MPI + OpenMP implementation of Sparse Matrix-Vector Multiplication (SpMV) to the A64FX architecture, leveraging SIMD vectorization for performance gains
@@ -80,7 +77,6 @@ Postdoctoral researcher
 
 `March 2018 - March 2021`
 __CNRS USR3441 Maison de la simulation, Saclay, France__
-;
 Ph.D. Student
 - Conducted a comprehensive survey and classification of task-based programming paradigms for high-performance computing applications
 - Designed, implemented, and deployed task-parallel scientific applications on large-scale supercomputing platforms
@@ -89,7 +85,6 @@ Ph.D. Student
 
 `March 2017 - August 2017`
 __Parallel programming, CNRS USR3441 Maison de la simulation, Saclay, France__
-;
 Intern
 - Developed and tested parallel applications using YML and XMP programming models on high-performance computing platforms
 - Conducted performance evaluation and scalability analysis across multiple scientific workloads
@@ -97,7 +92,6 @@ Intern
 
 `May 2016 - July 2016`
 __Management Tool Migration, Norman Info, Arras, France__
-;
 Intern
 - Use of SCRUM method to organize work
 - Organizing training session for the team to master the new tool
@@ -105,7 +99,6 @@ Intern
 
 `August 2015`
 __Sorting, French Tax Office, Saint-Maur-des-Fossés, France__
-;
 Intern
 - Understanding the sorting system of a big company
 - Managing time efficiently to do all the tasks
