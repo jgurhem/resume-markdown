@@ -2,7 +2,7 @@
 
 92800 Puteaux, France
 
-jerome.gurhem@aneo.fr
+<jgurhem@aneo.fr>
 
 [LinkedIn](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-gurhem-2485a7ba/)
 
