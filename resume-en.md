@@ -10,20 +10,32 @@
 
 ## About me
 
-HPC and Cloud Expert Consultant with a Ph.D. in Computer Science and a strong background in scientific computing, parallel programming, and distributed systems. Currently Tech & Research Lead for [ArmoniK](https://github.com/aneoconsulting/ArmoniK) at ANEO, an open-source multi-cloud compute orchestrator, leading a technical team of ~10 people. Passionate about performance challenges and the industrialization of HPC solutions. Focused on leveraging distributed systems design and performance optimization expertise to tackle complex large-scale problems.
+HPC, Cloud and SaaS Expert Consultant with a Ph.D. in Computer Science and a strong background in scientific computing, parallel programming, distributed systems, and AI-driven platform design. Currently Tech & Research Lead for [ArmoniK](https://github.com/aneoconsulting/ArmoniK) at ANEO, an open-source multi-cloud compute orchestrator, with full ownership of the multi-year product roadmap, budget and FTE resource allocation, leading a technical team of ~10 people. Also led the SaaS platform and agentic AI orchestration layers for GPU-native CFD simulation platform. Proven track record spanning the full product lifecycle: architecture, development, R&D, strategic planning, pre-sales, training, customer support, and people management. Passionate about performance challenges, the industrialization of HPC solutions, and the integration of AI into complex engineering workflows.
 
 ## Work Experience
 
 `August 2021 - Present`
 __ANEO, Boulogne-Billancourt, France__
 Tech & Research Lead in HPC/Cloud
+
+**ArmoniK** — Open-Source HTC Orchestrator
 - Led the full lifecycle of ArmoniK, an open-source task-based high-throughput computing (HTC) framework designed for orchestrating large-scale, fault-tolerant workloads across distributed and elastic infrastructures; architected and implemented its core on Kubernetes and Terraform, and drove its evolution from initial design to production-grade deployments in hybrid multi-cloud environments
-- Head of Research & Development for ArmoniK, driving the technical roadmap, contributing to scientific publications, and leading Aneo’s involvement in the FPT4 project (successor to InterFLOP)
+- Owns ArmoniK's multi-year strategic product roadmap, defining technical direction, feature prioritization, and release planning in alignment with client needs and market trends
+- Manages ArmoniK's budget and FTE resource allocation, making investment decisions across R&D, engineering, and support — spanning headcount planning, contractor engagement, and cost optimization
+- Head of Research & Development for ArmoniK, driving the technical roadmap, contributing to scientific publications, and leading Aneo's involvement in the FPT4 project (successor to InterFLOP)
 - Managed and mentored a cross-functional team of ~10 PhD researchers, engineers, and interns, fostering technical growth and delivering high-quality software components
 - Supervised and co-directed a PhD thesis on the formal modeling, verification, and optimization of ArmoniK, bridging academic research and industrial application
-- Led the ArmoniK support team, defining and delivering Level 3 support services, coordinating with clients, and ensuring operational excellence across deployments
-- Acted as Manager Référent, supporting consultants’ career development through roadmap planning, feedback collection, and alignment with Aneo’s culture and HR processes
-- Designed and delivered internal training programs and technical workshops on ArmoniK, contributing to the creation of a comprehensive training catalog
+- Established and led ArmoniK's customer support operation, defining and delivering Level 3 support services, building issue-tracking and client follow-up workflows, coordinating bug triage and corrective patches, and ensuring operational excellence across deployments
+- Actively participated in pre-sales engagements, contributing to technical proposals, architecture workshops with prospective clients, and commercial positioning of ArmoniK for regulated industries (finance, insurance)
+- Created and launched ArmoniK's training offering, designing the curriculum and delivering sessions both internally and to external clients as a commercial service
+
+**Agentic CFD Simulation Platform**
+- Led the SaaS platform layer for an advanced Agentic CFD Simulation Platform combining a GPU-native CFD solver, cloud-based HPC infrastructure, and AI-driven orchestration; designed the platform architecture including identity and access management, usage tracking, platform governance, web-based user interface, and future Bring-Your-Own-Cloud (BYOC) deployment model with usage-based pricing
+- Led the agentic AI orchestration architecture, designing how AI agents integrate with the SaaS platform, HPC backend, and user-facing workflows to create a conversational "Simulation Copilot" with human-in-the-loop control across the full simulation lifecycle (configuration, execution, monitoring, analysis)
+- Coordinated cross-team delivery between the SaaS platform, the GPU/HPC infrastructure team, and the AI agent development team
+
+**People & Organization**
+- Acted as Manager Référent, supporting consultants' career development through roadmap planning, feedback collection, and alignment with Aneo's culture and HR processes
 - Actively involved in strategic recruitment: defined job descriptions, conducted technical interviews, and contributed to onboarding and long-term hiring decisions
 
 `March 2021 - July 2021`
@@ -146,13 +158,19 @@ __Infrastructure & DevOps :__ Kubernetes, Terraform, Docker, GitHub Actions<span
 
 __Distributed Systems & APIs :__ gRPC, Protocol Buffers, multi‑language SDK generation (C#, Java)
 
-__Observability & Reliability :__ Grafana, Prometheus metrics, autoscaling (HPA signals), fault‑tolerant design, checkpointing, logging/monitoring best practices
+__SaaS Platform Design :__ Identity & access management, usage tracking & metering, platform governance, BYOC architecture, usage-based pricing models
 
-__Security & Compliance :__ TLS, IAM, least‑privilege, image scanning & CVE hygiene
+__AI & Agentic Orchestration :__ Agentic workflow architecture, human-in-the-loop design, AI agent integration with SaaS/HPC backends, conversational simulation workflows
+
+__Observability & Reliability :__ Grafana, Prometheus metrics, autoscaling (HPA signals), fault-tolerant design, checkpointing, logging/monitoring best practices
+
+__Security & Compliance :__ TLS, IAM, least-privilege, image scanning & CVE hygiene
+
+__Product & Strategy :__ Multi-year roadmap ownership, budget & FTE resource allocation, pre-sales engineering, training program design, customer support operations (L3)
 
 <div class="hide-old-skills">
 
-__Containerization :__ Singularity
+__Containerization :__ Docker, Singularity
 
 __Programming Models :__ MPI, MPI+OpenMP, PaRSEC, HPX, Legion(Regent), YML+XMP, Pegasus, TensorFlow
 
@@ -165,7 +183,6 @@ __Python Packages :__ Matplotlib, SQLite3, JSON, numpy, re, subprocess
 __Software & Tools :__ MS Office, Latex
 
 </div>
-
 
 <div id="courses">
 
