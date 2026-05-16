@@ -41,16 +41,18 @@ conda activate cvmd
 
 ## Source file philosophy
 
-`resume-en.md` is a **complete archive** of everything — all jobs, internships, skills, courses, and certifications. Visibility in the output is controlled via CSS, not by editing the source. **Never remove content from `resume-en.md`**; instead, wrap it in a hide class/ID and add a `display: none` rule in `style.css`.
+`resume-en.md` is a **complete archive** of everything — all jobs, internships, skills, courses, and certifications. Visibility in the output is controlled via CSS, not by editing the source. **Never remove content from `resume-en.md`**.
 
-Existing hide hooks:
-| CSS selector         | What it hides                          |
-|----------------------|----------------------------------------|
-| `#certifications`    | Certifications section                 |
-| `#courses`           | Courses section                        |
-| `.hide-old-skills`   | Old languages and legacy skill blocks  |
+`convert.py` automatically wraps every `## Heading` section in `<div id="slugified-heading">`, so every section is targetable from CSS. The slug is the heading text lowercased with non-alphanumeric runs replaced by `-` (e.g. "Old Technical Skills" → `old-technical-skills`).
 
-To hide a new section: wrap it in `<div id="my-section">…</div>` (or `<span class="my-class">`) and add `#my-section { display: none; }` to `style.css`.
+Currently hidden sections in `style.css`:
+| CSS selector            | What it hides              |
+|-------------------------|----------------------------|
+| `#certifications`       | Certifications section     |
+| `#old-technical-skills` | Legacy skills              |
+| `#courses`              | Courses section            |
+
+To hide a section: add its ID selector to the hidden-sections rule in `style.css`. No changes to `resume-en.md` or `convert.py` needed.
 
 ## CSS notes
 

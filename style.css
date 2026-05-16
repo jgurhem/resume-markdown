@@ -160,12 +160,8 @@ li > code {
 }
 
 /* Hidden sections */
-#school-projects,
 #certifications,
-#courses {
-  display: none;
-}
-
-.hide-old-skills {
+#courses,
+#old-technical-skills {
   display: none;
 }

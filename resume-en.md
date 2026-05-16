@@ -139,22 +139,18 @@ Major : Mathematics
 Lycée Samuel Beckett (La Ferté-sous-Jouarre, France)
 ```
 
-<div id="certifications">
-
 ## Certifications
 
 `December 2021 (expiration : December 2023)`
 __Google Cloud Certified - Professional Cloud Architect__
 
-</div>
-
 ## Technical Skills
 
-__Programming Languages :__ C#, Python, Rust, Bash<span class="hide-old-skills">, C, C++, XcalableMP, OpenACC, Java</span>
+__Programming Languages :__ C#, Python, Rust, Bash
 
 __Cloud Platforms :__ AWS (S3, EC2, SQS, AmazonMQ, DynamoDB, Elasticache, EKS, CloudWatch), GCP(GCS, PubSub, GKE, Cloud Logging)
 
-__Infrastructure & DevOps :__ Kubernetes, Terraform, Docker, GitHub Actions<span class="hide-old-skills">, Azure Pipelines</span>
+__Infrastructure & DevOps :__ Kubernetes, Terraform, Docker, GitHub Actions
 
 __Distributed Systems & APIs :__ gRPC, Protocol Buffers, multi‑language SDK generation (C#, Java)
 
@@ -168,7 +164,11 @@ __Security & Compliance :__ TLS, IAM, least-privilege, image scanning & CVE hygi
 
 __Product & Strategy :__ Multi-year roadmap ownership, budget & FTE resource allocation, pre-sales engineering, training program design, customer support operations (L3)
 
-<div class="hide-old-skills">
+## Old Technical Skills
+
+__Programming Languages :__ C, C++, XcalableMP, OpenACC, Java
+
+__Infrastructure & DevOps :__ Azure Pipelines
 
 __Containerization :__ Docker, Singularity
 
@@ -181,10 +181,6 @@ __Others :__ CMake, Makefile, Git, SQL
 __Python Packages :__ Matplotlib, SQLite3, JSON, numpy, re, subprocess
 
 __Software & Tools :__ MS Office, Latex
-
-</div>
-
-<div id="courses">
 
 ## Courses
 `25 January - 8 February 2021 (1 d/week)`
@@ -207,8 +203,6 @@ __CEA-Riken Summer School - Mastering the Arm HPC ecosystem__
 
 `23 - 24 April 2018`
 __Parallel file systems and parallel IO libraries__
-
-</div>
 
 ## Academic Research
 

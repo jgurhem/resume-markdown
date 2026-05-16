@@ -2,6 +2,17 @@ from weasyprint import HTML, CSS
 import commonmark
 import sys, os
 import argparse
+import re
+
+def slugify(text):
+    return re.sub(r'[^a-z0-9]+', '-', re.sub(r'<[^>]+>', '', text).lower()).strip('-')
+
+def wrap_sections(html):
+    return re.sub(
+        r'(?s)(<h2>(.*?)</h2>.*?)(?=<h2>|</body>)',
+        lambda m: f'<div id="{slugify(m.group(2))}">{m.group(1)}</div>',
+        html
+    )
 
 parser = argparse.ArgumentParser(description="Convert Markdown file to pdf")
 parser.add_argument("input", help="Markdown file to convert in pdf.")
@@ -12,6 +23,7 @@ args = parser.parse_args()
 with open(args.input, encoding='utf-8') as fp:
   text = fp.read()
   html = commonmark.commonmark(text)
+  html = wrap_sections(html)
 
   css = ""
   with open('./style.css', encoding='utf-8') as fr:
