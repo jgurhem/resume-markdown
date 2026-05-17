@@ -22,7 +22,7 @@ Proven track record spanning the full product lifecycle: architecture, developme
 __ANEO, Boulogne-Billancourt, France__
 Product, Engineering & Research Lead, HPC/Cloud
 
-**ArmoniK** — Open-Source HTC Orchestrator
+**ArmoniK** — Open-Source HTC Orchestrator `August 2021 - Present`
 - **Engineering**
   - Led the full lifecycle of ArmoniK, an open-source task-based high-throughput computing (HTC) framework for orchestrating large-scale, fault-tolerant workloads across distributed and elastic infrastructures
   - Architected and implemented its core on Kubernetes and Terraform, driving its evolution from initial design to production-grade deployments in hybrid multi-cloud environments
@@ -40,11 +40,11 @@ Product, Engineering & Research Lead, HPC/Cloud
   - Created and launched ArmoniK's training offering, designing the curriculum and delivering sessions both internally and to external clients as a commercial service
 
 **Agentic CFD Simulation Platform** `March 2026 – May 2026`
-- Led the SaaS platform layer for an advanced Agentic CFD Simulation Platform combining a GPU-native CFD solver, cloud-based HPC infrastructure, and AI-driven orchestration; designed the platform architecture including identity and access management, usage tracking, platform governance, web-based user interface, and future Bring-Your-Own-Cloud (BYOC) deployment model with usage-based pricing
-- Led the agentic AI orchestration architecture, designing how AI agents integrate with the SaaS platform, HPC backend, and user-facing workflows to create a conversational "Simulation Copilot" with human-in-the-loop control across the full simulation lifecycle (configuration, execution, monitoring, analysis)
+- Co-designed the SaaS platform layer for an Agentic CFD Simulation Platform combining a GPU-native CFD solver (AWS ParallelCluster/PCS, NVIDIA H100 GPUs) and a vector database (PostgreSQL with pgvector); designed the platform architecture including identity and access management, usage tracking, platform governance, web-based user interface, and future Bring-Your-Own-Cloud (BYOC) deployment model with usage-based pricing
+- Co-designed the agentic AI orchestration architecture using LLM-based agents (AWS Bedrock with Mistral models) and multi-agent orchestration protocols (MCP, A2A), enabling natural language-driven simulation workflows with human-in-the-loop control across the full simulation lifecycle (configuration, execution, monitoring, analysis); integrated observability via Langfuse and SigNoz
 - Coordinated cross-team delivery between the SaaS platform, the GPU/HPC infrastructure team, and the AI agent development team
 
-**People & Organization**
+**People & Organization** `August 2021 - Present`
 - Acted as Manager Référent, supporting consultants' career development through roadmap planning, feedback collection, and alignment with Aneo's culture and HR processes
 - Actively involved in strategic recruitment: defined job descriptions, conducted technical interviews, and contributed to onboarding and long-term hiring decisions
 
@@ -74,7 +74,7 @@ Intern — Parallel Programming
 __Norman Info, Arras, France__
 Intern — Jira Platform Migration
 - Migrated the company's project tracking platform across multiple major Jira versions, designing a 3-stage intermediate migration path to safely bridge a large version gap
-- Organised and delivered team training sessions to onboard staff on the migrated platform
+- Organized and delivered team training sessions to onboard staff on the migrated platform
 - Applied Scrum to plan and coordinate the migration timeline, gathering feedback to refine configuration post-migration
 
 `August 2015`
@@ -158,7 +158,7 @@ __Google Cloud Certified - Professional Cloud Architect__
 
 __Programming Languages :__ C#, Python, Rust, Bash
 
-__Cloud Platforms :__ AWS (S3, EC2, SQS, AmazonMQ, DynamoDB, Elasticache, EKS, CloudWatch), GCP(GCS, PubSub, GKE, Cloud Logging)
+__Cloud Platforms :__ AWS (S3, EC2, SQS, AmazonMQ, DynamoDB, Elasticache, EKS, CloudWatch, Bedrock, ParallelCluster/PCS), GCP (GCS, PubSub, GKE, Cloud Logging)
 
 __Infrastructure & DevOps :__ Kubernetes, Terraform, Docker, GitHub Actions
 
@@ -166,9 +166,9 @@ __Distributed Systems & APIs :__ gRPC, Protocol Buffers, multi‑language SDK ge
 
 __SaaS Platform Design :__ Identity & access management, usage tracking & metering, platform governance, BYOC architecture, usage-based pricing models
 
-__AI & Agentic Orchestration :__ Agentic workflow architecture, human-in-the-loop design, AI agent integration with SaaS/HPC backends, conversational simulation workflows
+__AI & Agentic Orchestration :__ AWS Bedrock (Mistral), MCP, A2A, multi-agent orchestration, agentic workflow architecture, human-in-the-loop design, AI agent integration with SaaS/HPC backends, conversational simulation workflows
 
-__Observability & Reliability :__ Grafana, Prometheus metrics, autoscaling (HPA signals), fault-tolerant design, checkpointing, logging/monitoring best practices
+__Observability & Reliability :__ Grafana, Prometheus, Langfuse, SigNoz, autoscaling (HPA signals), fault-tolerant design, checkpointing, logging/monitoring best practices
 
 __Security & Compliance :__ TLS, IAM, least-privilege, image scanning & CVE hygiene
 
