@@ -89,15 +89,15 @@ Intern — Administrative Operations
 
 `December 2022 - Present`
 __Université de Versailles Saint Quentin - High Performance Master, Guyancourt, France__
-- Classes : Numerical calculus
-- Topics : Iterative methods to solve linear systems, band matrices, Lapack, BLAS
+- Classes: Numerical calculus
+- Topics: Iterative methods to solve linear systems, band matrices, Lapack, BLAS
 - 12 hours of practical courses.
 
 
 `January 2022 - May 2025`
 __Institut des Sciences et Techniques des Yvelines, Vélizy, France__
-- Classes : Advanced Operating Systems
-- Topics : Elf format, process scheduling, threading, virtual memory
+- Classes: Advanced Operating Systems
+- Topics: Elf format, process scheduling, threading, virtual memory
 - Student project: implementing a Shell in C
 - Lecture on "Changes in application development brought by Cloud Computing"
 - 2 hours lecture + 40 hours of practical courses.
@@ -105,8 +105,8 @@ __Institut des Sciences et Techniques des Yvelines, Vélizy, France__
 
 `March 2018 - June 2018`
 __Institut des Sciences et Techniques des Yvelines, Vélizy, France__
-- Classes : Operating Systems
-- Topics : Unix basic commands, bash scripts, C processes
+- Classes: Operating Systems
+- Topics: Unix basic commands, bash scripts, C processes
 - 60 hours of practical courses.
 
 
@@ -115,8 +115,8 @@ __Institut des Sciences et Techniques des Yvelines, Vélizy, France__
 `March 2018 - March 2021`
 __Ph.D. in Computer Science__
 ```
-Thesis title : Distributed and Parallel Programming Paradigms Using Graphs of Tasks for Post-Petascale Supercomputers
-Advisor : Pr. Serge G. Petiton
+Thesis title: Distributed and Parallel Programming Paradigms Using Graphs of Tasks for Post-Petascale Supercomputers
+Advisor: Pr. Serge G. Petiton
 University of Lille (Lille, France)
 ```
 
@@ -145,52 +145,52 @@ Lycée Clémenceau (Reims, France)
 `September 2009 - July 2012`
 __Scientific Baccalauréat__
 ```
-Major : Mathematics
+Major: Mathematics
 Lycée Samuel Beckett (La Ferté-sous-Jouarre, France)
 ```
 
 ## Certifications
 
-`December 2021 (expiration : December 2023)`
+`December 2021 (expiration: December 2023)`
 __Google Cloud Certified - Professional Cloud Architect__
 
 ## Technical Skills
 
-__Programming Languages :__ C#, Python, Rust, Bash
+__Programming Languages:__ C#, Python, Rust, Bash
 
-__Cloud Platforms :__ AWS (S3, EC2, SQS, AmazonMQ, DynamoDB, Elasticache, EKS, CloudWatch, Bedrock, ParallelCluster/PCS), GCP (GCS, PubSub, GKE, Cloud Logging)
+__Cloud Platforms:__ AWS (S3, EC2, SQS, AmazonMQ, DynamoDB, Elasticache, EKS, CloudWatch, Bedrock, ParallelCluster/PCS), GCP (GCS, PubSub, GKE, Cloud Logging)
 
-__Infrastructure & DevOps :__ Kubernetes, Terraform, Docker, GitHub Actions
+__Infrastructure & DevOps:__ Kubernetes, Terraform, Docker, GitHub Actions
 
-__Distributed Systems & APIs :__ gRPC, Protocol Buffers, multi‑language SDK generation (C#, Java)
+__Distributed Systems & APIs:__ gRPC, Protocol Buffers, multi‑language SDK generation (C#, Java)
 
-__SaaS Platform Design :__ Identity & access management, usage tracking & metering, platform governance, BYOC architecture, usage-based pricing models
+__SaaS Platform Design:__ Identity & access management, usage tracking & metering, platform governance, BYOC architecture, usage-based pricing models
 
-__AI & Agentic Orchestration :__ AWS Bedrock (Mistral), MCP, A2A, multi-agent orchestration, agentic workflow architecture, human-in-the-loop design, AI agent integration with SaaS/HPC backends, conversational simulation workflows
+__AI & Agentic Orchestration:__ AWS Bedrock (Mistral), MCP, A2A, multi-agent orchestration, agentic workflow architecture, human-in-the-loop design, AI agent integration with SaaS/HPC backends, conversational simulation workflows
 
-__Observability & Reliability :__ Grafana, Prometheus, Langfuse, SigNoz, autoscaling (HPA signals), fault-tolerant design, checkpointing, logging/monitoring best practices
+__Observability & Reliability:__ Grafana, Prometheus, Langfuse, SigNoz, autoscaling (HPA signals), fault-tolerant design, checkpointing, logging/monitoring best practices
 
-__Security & Compliance :__ TLS, IAM, least-privilege, image scanning & CVE hygiene
+__Security & Compliance:__ TLS, IAM, least-privilege, image scanning & CVE hygiene
 
-__Product & Strategy :__ Multi-year roadmap ownership, budget & FTE resource allocation, pre-sales engineering, training program design, customer support operations (L3)
+__Product & Strategy:__ Multi-year roadmap ownership, budget & FTE resource allocation, pre-sales engineering, training program design, customer support operations (L3)
 
 ## Old Technical Skills
 
-__Programming Languages :__ C, C++, XcalableMP, OpenACC, Java
+__Programming Languages:__ C, C++, XcalableMP, OpenACC, Java
 
-__Infrastructure & DevOps :__ Azure Pipelines
+__Infrastructure & DevOps:__ Azure Pipelines
 
-__Containerization :__ Docker, Singularity
+__Containerization:__ Docker, Singularity
 
-__Programming Models :__ MPI, MPI+OpenMP, PaRSEC, HPX, Legion(Regent), YML+XMP, Pegasus, TensorFlow
+__Programming Models:__ MPI, MPI+OpenMP, PaRSEC, HPX, Legion(Regent), YML+XMP, Pegasus, TensorFlow
 
-__Computational Packages :__ BLAS, LAPACK, ScaLAPACK
+__Computational Packages:__ BLAS, LAPACK, ScaLAPACK
 
-__Others :__ CMake, Makefile, Git, SQL
+__Others:__ CMake, Makefile, Git, SQL
 
-__Python Packages :__ Matplotlib, SQLite3, JSON, numpy, re, subprocess
+__Python Packages:__ Matplotlib, SQLite3, JSON, numpy, re, subprocess
 
-__Software & Tools :__ MS Office, Latex
+__Software & Tools:__ MS Office, Latex
 
 ## Courses
 `25 January - 8 February 2021 (1 d/week)`
@@ -259,9 +259,9 @@ __J. Gurhem__, "Distributed and Parallel Dense Block Linear Algebra using YML an
 
 ## Languages
 
-__French :__ Native language
+__French:__ Native language
 
-__English :__ Fluent (C1)
+__English:__ Fluent (C1)
 
 ## Extra-Curricular
 

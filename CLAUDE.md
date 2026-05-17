@@ -70,6 +70,10 @@ Pushing to `master` triggers `.github/workflows/build-and-release.yml`, which:
 2. Injects a "Download PDF" button (top-right corner) into the HTML
 3. Deploys to GitHub Pages (`index.html` + `resume-en.pdf`)
 
+## Git
+
+- Do not add `Co-Authored-By` lines to commit messages.
+
 ## Gotchas
 
 - Generated `*.html` and `*.pdf` are gitignored — do not commit them
