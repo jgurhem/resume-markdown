@@ -86,8 +86,8 @@ Intern
 `December 2022 - Present`
 __Université de Versailles Saint Quentin - High Performance Master, Guyancourt, France__
 - Classes : Numerical calculus
-- topics : Iterative methods to solve linear systems, band matrices, Lapack, BLAS
-- 12 hours of practical courses
+- Topics : Iterative methods to solve linear systems, band matrices, Lapack, BLAS
+- 12 hours of practical courses.
 
 
 `January 2022 - May 2025`
@@ -96,14 +96,14 @@ __Institut des Sciences et Techniques des Yvelines, Vélizy, France__
 - Topics : Elf format, process scheduling, threading, virtual memory
 - Student project: implementing a Shell in C
 - Lecture on "Changes in application development brought by Cloud Computing"
-- 2 hours lecture + 40 hours of practical courses
+- 2 hours lecture + 40 hours of practical courses.
 
 
 `March 2018 - June 2018`
 __Institut des Sciences et Techniques des Yvelines, Vélizy, France__
 - Classes : Operating Systems
 - Topics : Unix basic commands, bash scripts, C processes
-- 60 hours of practical courses
+- 60 hours of practical courses.
 
 
 ## Education
