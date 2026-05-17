@@ -10,7 +10,11 @@
 
 ## About me
 
-HPC, Cloud and SaaS Expert Consultant with a Ph.D. in Computer Science and a strong background in scientific computing, parallel programming, distributed systems, and AI-driven platform design. Currently Tech & Research Lead for [ArmoniK](https://github.com/aneoconsulting/ArmoniK) at ANEO, an open-source multi-cloud compute orchestrator, with full ownership of the multi-year product roadmap, budget and FTE resource allocation, leading a technical team of ~10 people. Also led the SaaS platform and agentic AI orchestration layers for GPU-native CFD simulation platform. Proven track record spanning the full product lifecycle: architecture, development, R&D, strategic planning, pre-sales, training, customer support, and people management. Passionate about performance challenges, the industrialization of HPC solutions, and the integration of AI into complex engineering workflows.
+HPC, Cloud and SaaS Expert Consultant with a Ph.D. in Computer Science and a strong background in scientific computing, parallel programming, distributed systems, and AI-driven platform design.
+
+Currently Tech & Research Lead for [ArmoniK](https://github.com/aneoconsulting/ArmoniK) at ANEO, an open-source multi-cloud compute orchestrator, with full ownership of the multi-year product roadmap, budget and FTE resource allocation, leading a technical team of ~10 people. Also leading the SaaS architecture and agentic AI orchestration for a GPU-native CFD simulation platform.
+
+Proven track record spanning the full product lifecycle: architecture, development, R&D, strategic planning, pre-sales, training, customer support, and people management. Passionate about performance challenges, the industrialization of HPC solutions, and the integration of AI into complex engineering workflows.
 
 ## Work Experience
 
@@ -35,7 +39,7 @@ Product, Engineering & Research Lead, HPC/Cloud
   - Actively participated in pre-sales engagements, contributing to technical proposals, architecture workshops with prospective clients, and commercial positioning of ArmoniK for regulated industries (finance, insurance)
   - Created and launched ArmoniK's training offering, designing the curriculum and delivering sessions both internally and to external clients as a commercial service
 
-**Agentic CFD Simulation Platform**
+**Agentic CFD Simulation Platform** `March 2026 – May 2026`
 - Led the SaaS platform layer for an advanced Agentic CFD Simulation Platform combining a GPU-native CFD solver, cloud-based HPC infrastructure, and AI-driven orchestration; designed the platform architecture including identity and access management, usage tracking, platform governance, web-based user interface, and future Bring-Your-Own-Cloud (BYOC) deployment model with usage-based pricing
 - Led the agentic AI orchestration architecture, designing how AI agents integrate with the SaaS platform, HPC backend, and user-facing workflows to create a conversational "Simulation Copilot" with human-in-the-loop control across the full simulation lifecycle (configuration, execution, monitoring, analysis)
 - Coordinated cross-team delivery between the SaaS platform, the GPU/HPC infrastructure team, and the AI agent development team
@@ -257,7 +261,7 @@ __J. Gurhem__, "Distributed and Parallel Dense Block Linear Algebra using YML an
 
 __French :__ Native language
 
-__English :__ Fluent
+__English :__ Fluent (C1)
 
 ## Extra-Curricular
 
