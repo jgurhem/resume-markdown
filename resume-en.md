@@ -45,7 +45,7 @@ Product, Engineering & Research Lead, HPC/Cloud
 - Coordinated cross-team delivery across a 7-person team spanning the SaaS platform, the GPU/HPC infrastructure team, and the AI agent development team
 
 **People & Organization** `August 2021 - Present`
-- Acted as Manager Référent, supporting consultants' career development through roadmap planning, feedback collection, and alignment with Aneo's culture and HR processes
+- Acted as Manager Référent, supporting consultants' career development through roadmap planning, feedback collection, and alignment with Aneo's culture and HR processes, complemented by hands-on technical coaching and long-term mentoring of junior engineers, PhD researchers, and interns
 - Actively involved in strategic recruitment: defined job descriptions, conducted ~20 technical interviews per year, and contributed to onboarding and long-term hiring decisions
 
 `March 2021 - July 2021`
@@ -265,7 +265,9 @@ __English:__ Fluent (C1)
 
 ## Extra-Curricular
 
-Reading (Fantasy, Science-Fiction)
+Active technology watch across software engineering, distributed systems, and AI — with a current focus on agentic AI frameworks and AI-assisted development tools, exploring their application to accelerate product development and expand platform capabilities
 
-Game modding (Java) and programming MOOCs
+Speaker at technical meetups and conferences (upcoming: Rust Paris, June 2026), in addition to academic venues (COMPAS, IEEE Cloud Summit, CSMA)
+
+Reading (Fantasy, Science-Fiction)
 
