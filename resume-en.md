@@ -16,18 +16,24 @@ HPC, Cloud and SaaS Expert Consultant with a Ph.D. in Computer Science and a str
 
 `August 2021 - Present`
 __ANEO, Boulogne-Billancourt, France__
-Tech & Research Lead in HPC/Cloud
+Product, Engineering & Research Lead, HPC/Cloud
 
 **ArmoniK** — Open-Source HTC Orchestrator
-- Led the full lifecycle of ArmoniK, an open-source task-based high-throughput computing (HTC) framework designed for orchestrating large-scale, fault-tolerant workloads across distributed and elastic infrastructures; architected and implemented its core on Kubernetes and Terraform, and drove its evolution from initial design to production-grade deployments in hybrid multi-cloud environments
-- Owns ArmoniK's multi-year strategic product roadmap, defining technical direction, feature prioritization, and release planning in alignment with client needs and market trends
-- Manages ArmoniK's budget and FTE resource allocation, making investment decisions across R&D, engineering, and support — spanning headcount planning, contractor engagement, and cost optimization
-- Head of Research & Development for ArmoniK, driving the technical roadmap, contributing to scientific publications, and leading Aneo's involvement in the FPT4 project (successor to InterFLOP)
-- Managed and mentored a cross-functional team of ~10 PhD researchers, engineers, and interns, fostering technical growth and delivering high-quality software components
-- Supervised and co-directed a PhD thesis on the formal modeling, verification, and optimization of ArmoniK, bridging academic research and industrial application
-- Established and led ArmoniK's customer support operation, defining and delivering Level 3 support services, building issue-tracking and client follow-up workflows, coordinating bug triage and corrective patches, and ensuring operational excellence across deployments
-- Actively participated in pre-sales engagements, contributing to technical proposals, architecture workshops with prospective clients, and commercial positioning of ArmoniK for regulated industries (finance, insurance)
-- Created and launched ArmoniK's training offering, designing the curriculum and delivering sessions both internally and to external clients as a commercial service
+- **Engineering**
+  - Led the full lifecycle of ArmoniK, an open-source task-based high-throughput computing (HTC) framework for orchestrating large-scale, fault-tolerant workloads across distributed and elastic infrastructures
+  - Architected and implemented its core on Kubernetes and Terraform, driving its evolution from initial design to production-grade deployments in hybrid multi-cloud environments
+- **Product**
+  - Owns ArmoniK's multi-year strategic product roadmap, defining technical direction, feature prioritization, and release planning in alignment with client needs and market trends
+  - Manages ArmoniK's budget and FTE resource allocation, making investment decisions across R&D, engineering, and support — spanning headcount planning, contractor engagement, and cost optimization
+- **Research & R&D**
+  - Led R&D for ArmoniK, contributing to scientific publications, and leading Aneo's involvement in the FPT4 project (successor to InterFLOP)
+  - Co-supervised a PhD thesis on the formal modeling, verification, and optimization of ArmoniK, bridging academic research and industrial application
+- **People**
+  - Managed and mentored a cross-functional team of ~10 PhD researchers, engineers, and interns, fostering technical growth and delivering high-quality software components
+- **Operations**
+  - Established and led ArmoniK's customer support operation, defining and delivering Level 3 support services, building issue-tracking and client follow-up workflows, coordinating bug triage and corrective patches, and ensuring operational excellence across deployments
+  - Actively participated in pre-sales engagements, contributing to technical proposals, architecture workshops with prospective clients, and commercial positioning of ArmoniK for regulated industries (finance, insurance)
+  - Created and launched ArmoniK's training offering, designing the curriculum and delivering sessions both internally and to external clients as a commercial service
 
 **Agentic CFD Simulation Platform**
 - Led the SaaS platform layer for an advanced Agentic CFD Simulation Platform combining a GPU-native CFD solver, cloud-based HPC infrastructure, and AI-driven orchestration; designed the platform architecture including identity and access management, usage tracking, platform governance, web-based user interface, and future Bring-Your-Own-Cloud (BYOC) deployment model with usage-based pricing
