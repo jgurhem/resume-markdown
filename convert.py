@@ -14,6 +14,13 @@ def wrap_sections(html):
         html
     )
 
+def wrap_entries(html):
+    return re.sub(
+        r'(?s)(<p><code>[^<]+</code>\n<strong>[^<]+</strong>\n([^\n<]+)</p>.*?)(?=<p><code>|<h2>|</div>)',
+        lambda m: f'<div id="{slugify(m.group(2))}">{m.group(1)}</div>',
+        html
+    )
+
 parser = argparse.ArgumentParser(description="Convert Markdown file to pdf")
 parser.add_argument("input", help="Markdown file to convert in pdf.")
 parser.add_argument("-o", "--output", dest="output", help="Output file.", type=str, default=None)
@@ -24,6 +31,7 @@ with open(args.input, encoding='utf-8') as fp:
   text = fp.read()
   html = commonmark.commonmark(text)
   html = wrap_sections(html)
+  html = wrap_entries(html)
 
   css = ""
   with open('./style.css', encoding='utf-8') as fr:

@@ -162,6 +162,7 @@ li > code {
 /* Hidden sections */
 #certifications,
 #courses,
-#old-technical-skills {
+#old-technical-skills,
+#intern-administrative-operations {
   display: none;
 }

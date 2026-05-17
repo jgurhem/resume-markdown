@@ -52,7 +52,9 @@ Currently hidden sections in `style.css`:
 | `#old-technical-skills` | Legacy skills              |
 | `#courses`              | Courses section            |
 
-To hide a section: add its ID selector to the hidden-sections rule in `style.css`. No changes to `resume-en.md` or `convert.py` needed.
+To hide a **section** (h2-level): add its ID to the hidden-sections rule in `style.css`.
+
+`convert.py` also wraps every work/education entry in `<div id="slug">` using the role title as slug (e.g. "Intern — Administrative Operations" → `intern-administrative-operations`). To hide an entry, add its ID to `style.css` — no changes to `resume-en.md` needed.
 
 ## CSS notes
 
