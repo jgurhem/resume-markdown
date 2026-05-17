@@ -163,6 +163,7 @@ li > code {
 #certifications,
 #courses,
 #old-technical-skills,
-#intern-administrative-operations {
+#intern-administrative-operations,
+#intern-jira-platform-migration {
   display: none;
 }
