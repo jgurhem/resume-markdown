@@ -24,10 +24,10 @@ Product, Engineering & Research Lead, HPC/Cloud
 
 **ArmoniK** — Open-Source HTC Orchestrator `August 2021 - Present`
 - **Engineering**
-  - Led the full lifecycle of ArmoniK, an open-source task-based high-throughput computing (HTC) framework for orchestrating large-scale, fault-tolerant workloads across distributed and elastic infrastructures
-  - Architected and implemented its core on Kubernetes and Terraform, driving its evolution from initial design to production-grade deployments in hybrid multi-cloud environments
+  - Led the full lifecycle of ArmoniK, an open-source task-based high-throughput computing (HTC) framework for orchestrating large-scale, fault-tolerant workloads across distributed and elastic infrastructures, processing tens of millions of tasks per month in production for major financial institutions
+  - Architected and implemented its core on Kubernetes and Terraform, driving its evolution from initial design to production-grade deployments scaling to 12,000+ concurrent workers on a single instance within a single cloud region in hybrid multi-cloud environments
 - **Product**
-  - Owns ArmoniK's multi-year strategic product roadmap, defining technical direction, feature prioritization, and release planning in alignment with client needs and market trends
+  - Owns ArmoniK's multi-year strategic product roadmap and oversees a portfolio of ArmoniK projects representing €700K–€1.2M in annual revenue, defining technical direction, feature prioritization, and delivering major releases on a 6-month cadence in alignment with client needs and market trends
   - Manages ArmoniK's budget and FTE resource allocation, making investment decisions across R&D, engineering, and support — spanning headcount planning, contractor engagement, and cost optimization
 - **Research & R&D**
   - Led R&D for ArmoniK, contributing to scientific publications, and leading Aneo's involvement in the FPT4 project (successor to InterFLOP)
@@ -35,18 +35,18 @@ Product, Engineering & Research Lead, HPC/Cloud
 - **People**
   - Managed and mentored a cross-functional team of ~10 PhD researchers, engineers, and interns, fostering technical growth and delivering high-quality software components
 - **Operations**
-  - Established and led ArmoniK's customer support operation, defining and delivering Level 3 support services, building issue-tracking and client follow-up workflows, coordinating bug triage and corrective patches, and ensuring operational excellence across deployments
+  - Scaled and structured ArmoniK's customer support operation for Crédit Agricole CIB and established it from the ground up for Natixis — across 30+ deployments (dev, integration, pre-prod, production) for 6 client teams; defined and delivered Level 3 support services, built issue-tracking and client follow-up workflows, and coordinated bug triage and corrective patches
   - Actively participated in pre-sales engagements, contributing to technical proposals, architecture workshops with prospective clients, and commercial positioning of ArmoniK for regulated industries (finance, insurance)
-  - Created and launched ArmoniK's training offering, designing the curriculum and delivering sessions both internally and to external clients as a commercial service
+  - Created and launched ArmoniK's training offering, designing the curriculum and delivering 5+ multi-day sessions (presentations, hands-on labs, hackathons) to 5–25 participants per session, both internally and to external clients as a commercial service
 
 **Agentic CFD Simulation Platform** `March 2026 – May 2026`
 - Co-designed the SaaS platform layer for an Agentic CFD Simulation Platform combining a GPU-native CFD solver (AWS ParallelCluster/PCS, NVIDIA H100 GPUs) and a vector database (PostgreSQL with pgvector); designed the platform architecture including identity and access management, usage tracking, platform governance, web-based user interface, and future Bring-Your-Own-Cloud (BYOC) deployment model with usage-based pricing
 - Co-designed the agentic AI orchestration architecture using LLM-based agents (AWS Bedrock with Mistral models) and multi-agent orchestration protocols (MCP, A2A), enabling natural language-driven simulation workflows with human-in-the-loop control across the full simulation lifecycle (configuration, execution, monitoring, analysis); integrated observability via Langfuse and SigNoz
-- Coordinated cross-team delivery between the SaaS platform, the GPU/HPC infrastructure team, and the AI agent development team
+- Coordinated cross-team delivery across a 7-person team spanning the SaaS platform, the GPU/HPC infrastructure team, and the AI agent development team
 
 **People & Organization** `August 2021 - Present`
 - Acted as Manager Référent, supporting consultants' career development through roadmap planning, feedback collection, and alignment with Aneo's culture and HR processes
-- Actively involved in strategic recruitment: defined job descriptions, conducted technical interviews, and contributed to onboarding and long-term hiring decisions
+- Actively involved in strategic recruitment: defined job descriptions, conducted ~20 technical interviews per year, and contributed to onboarding and long-term hiring decisions
 
 `March 2021 - July 2021`
 __CNRS USR3441 Maison de la simulation, Saclay, France__
