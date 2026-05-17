@@ -1,3 +1,7 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
 # resume-markdown
 
 Markdown-to-PDF/HTML resume pipeline. Single source of truth: `resume-en.md` → `convert.py` (commonmark + weasyprint) → styled via `style.css` → deployed to GitHub Pages on every push to `master`.
@@ -45,12 +49,13 @@ conda activate cvmd
 
 `convert.py` automatically wraps every `## Heading` section in `<div id="slugified-heading">`, so every section is targetable from CSS. The slug is the heading text lowercased with non-alphanumeric runs replaced by `-` (e.g. "Old Technical Skills" → `old-technical-skills`).
 
-Currently hidden sections in `style.css`:
-| CSS selector            | What it hides              |
-|-------------------------|----------------------------|
-| `#certifications`       | Certifications section     |
-| `#old-technical-skills` | Legacy skills              |
-| `#courses`              | Courses section            |
+Currently hidden in `style.css` (all share one `display: none` rule):
+| CSS selector                        | What it hides                        |
+|-------------------------------------|--------------------------------------|
+| `#certifications`                   | Certifications section               |
+| `#old-technical-skills`             | Legacy skills                        |
+| `#courses`                          | Courses section                      |
+| `#intern-administrative-operations` | Tax Office internship entry          |
 
 To hide a **section** (h2-level): add its ID to the hidden-sections rule in `style.css`.
 
