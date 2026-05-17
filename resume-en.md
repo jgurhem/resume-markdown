@@ -64,22 +64,22 @@ Ph.D. Student
 - Partially supported by TOTAL SA
 
 `March 2017 - August 2017`
-__Parallel programming, CNRS USR3441 Maison de la simulation, Saclay, France__
-Intern
+__CNRS USR3441 Maison de la simulation, Saclay, France__
+Intern — Parallel Programming
 - Developed and tested parallel applications using YML and XMP programming models on high-performance computing platforms
 - Conducted performance evaluation and scalability analysis across multiple scientific workloads
 - Designed and prototyped a new parallel implementation of Kirchhoff pre-stack depth migration, targeting improved efficiency and scalability on supercomputers
 
 `May 2016 - July 2016`
-__Management Tool Migration, Norman Info, Arras, France__
-Intern
-- Use of SCRUM method to organize work
-- Organizing training session for the team to master the new tool
-- Adjusting the tool to feedbacks gathered during meetings with the team
+__Norman Info, Arras, France__
+Intern — Jira Platform Migration
+- Migrated the company's project tracking platform across multiple major Jira versions, designing a 3-stage intermediate migration path to safely bridge a large version gap
+- Organised and delivered team training sessions to onboard staff on the migrated platform
+- Applied Scrum to plan and coordinate the migration timeline, gathering feedback to refine configuration post-migration
 
 `August 2015`
-__Sorting, French Tax Office, Saint-Maur-des-Fossés, France__
-Intern
+__French Tax Office, Saint-Maur-des-Fossés, France__
+Intern — Administrative Operations
 - Understanding the sorting system of a big company
 - Managing time efficiently to do all the tasks
 - Helping others to be faster in their work
