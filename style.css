@@ -1,7 +1,8 @@
 :root {
   --font-size: 15px;
-  --accent: #1a56db;
-  --accent-light: #e8f0fe;
+  --accent: #5568a8;
+  --accent-muted: #8496bb;
+  --accent-light: #e6ecf8;
   --border: #d1d5db;
   --text: #1f2937;
   --muted: #6b7280;
@@ -22,7 +23,7 @@
 body {
   background-color: #f9fafb;
   color: var(--text);
-  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+  font-family: "Palatino Linotype", "Palatino", "Book Antiqua", Georgia, serif;
   font-size: var(--font-size);
   line-height: 1.6;
   margin: 2rem auto;
@@ -39,13 +40,6 @@ body {
   }
 }
 
-@media handheld {
-  body {
-    margin: 0;
-    padding: 0.5rem;
-    max-width: none;
-  }
-}
 
 h1 {
   color: var(--text);
@@ -57,37 +51,32 @@ h1 {
 }
 
 h2 {
-  color: white;
-  font-size: 0.85em;
+  color: var(--accent);
+  font-size: 1.1em;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
-  padding: 0.5rem 1rem;
+  letter-spacing: 0.12em;
+  padding: 0 0 0.3rem 0;
   margin: 1.75rem 0 0.75rem 0;
-  background-color: var(--accent);
-  border-radius: var(--radius);
-  border-left: 4px solid #0e3a9e;
+  border-bottom: 1.5px solid var(--accent);
 }
 
 h3 {
   color: var(--accent);
-  font-size: 0.95em;
-  font-weight: 600;
+  font-size: 1.05em;
+  font-weight: 700;
   margin: 0.75rem 0 0.25rem 0;
-  padding: 0.25rem 0.75rem;
+  padding: 0.1rem 0.6rem;
   border-left: 3px solid var(--accent);
-  background-color: var(--accent-light);
-  border-radius: 0 var(--radius) var(--radius) 0;
 }
 
 h4 {
-  color: var(--accent);
+  color: var(--accent-muted);
   font-size: 0.88em;
   font-weight: 600;
-  margin: 0.6rem 0 0.1rem 0;
-  padding: 0.1rem 0.6rem;
-  border-left: 2px solid var(--accent);
-  border-radius: 0 var(--radius) var(--radius) 0;
+  font-style: italic;
+  margin: 0.5rem 0 0.1rem 0;
+  padding: 0 0.2rem;
 }
 
 p {
@@ -95,26 +84,6 @@ p {
   margin: 0.4rem 0;
 }
 
-pre {
-  white-space: pre;
-  word-wrap: break-word;
-  width: auto;
-}
-
-pre code {
-  background: var(--bg-code);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  font-family: inherit;
-  font-size: 0.9em;
-  display: block;
-  margin: 0.25rem 0 0.5rem 0;
-  padding: 0.6rem 0.9rem;
-  word-wrap: break-word;
-  white-space: pre-wrap;
-  width: auto;
-  color: #374151;
-}
 
 ul {
   border-left: 3px solid var(--border);
@@ -163,9 +132,28 @@ p > code,
 li > code,
 h4 > code {
   background: var(--accent-light);
-  border-color: #bfdbfe;
+  border-color: var(--accent-muted);
   color: var(--accent);
   font-size: 0.82em;
+}
+
+.resume-header {
+  text-align: center;
+  margin-bottom: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.resume-header p {
+  display: inline;
+  margin: 0;
+  font-size: 0.9em;
+  color: var(--muted);
+}
+
+.resume-header p + p::before {
+  content: " · ";
+  color: var(--muted);
 }
 
 /* Hidden sections */

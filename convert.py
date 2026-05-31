@@ -25,6 +25,14 @@ def wrap_entries(html):
         html
     )
 
+def wrap_header(html):
+    return re.sub(
+        r'(?s)(<h1>.*?</h1>)((?:\s*<p>.*?</p>)*)',
+        r'<div class="resume-header">\1\2</div>',
+        html,
+        count=1
+    )
+
 parser = argparse.ArgumentParser(description="Convert Markdown file to pdf")
 parser.add_argument("input", help="Markdown file to convert in pdf.")
 parser.add_argument("-o", "--output", dest="output", help="Output file.", type=str, default=None)
@@ -34,6 +42,7 @@ args = parser.parse_args()
 with open(args.input, encoding='utf-8') as fp:
   text = fp.read()
   html = commonmark.commonmark(text)
+  html = wrap_header(html)
   html = wrap_sections(html)
   html = wrap_entries(html)
 
