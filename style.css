@@ -117,9 +117,7 @@ pre code {
 }
 
 ul {
-  background: var(--bg-code);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
+  border-left: 3px solid var(--border);
   font-family: inherit;
   font-size: 0.9em;
   margin: 0.25rem 0 0.5rem 0;
