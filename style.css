@@ -80,6 +80,16 @@ h3 {
   border-radius: 0 var(--radius) var(--radius) 0;
 }
 
+h4 {
+  color: var(--accent);
+  font-size: 0.88em;
+  font-weight: 600;
+  margin: 0.6rem 0 0.1rem 0;
+  padding: 0.1rem 0.6rem;
+  border-left: 2px solid var(--accent);
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+
 p {
   font-family: inherit;
   margin: 0.4rem 0;
@@ -152,7 +162,8 @@ code {
 
 /* Date/tag badges rendered from backtick inline code in markdown headings */
 p > code,
-li > code {
+li > code,
+h4 > code {
   background: var(--accent-light);
   border-color: #bfdbfe;
   color: var(--accent);
@@ -163,7 +174,7 @@ li > code {
 #certifications,
 #courses,
 #old-technical-skills,
-#intern-administrative-operations,
-#intern-jira-platform-migration {
+#norman-info-arras-france,
+#french-tax-office-saint-maur-des-fosses-france {
   display: none;
 }

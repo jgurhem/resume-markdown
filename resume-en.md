@@ -18,11 +18,10 @@ Proven track record spanning the full product lifecycle: architecture, developme
 
 ## Work Experience
 
-`August 2021 - Present`
-__ANEO, Boulogne-Billancourt, France__
-Product, Engineering & Research Lead, HPC/Cloud
+### ANEO, Boulogne-Billancourt, France
+`August 2021 - Present` — Product, Engineering & Research Lead, HPC/Cloud
 
-**ArmoniK** — Open-Source HTC Orchestrator `August 2021 - Present`
+#### ArmoniK — Open-Source HTC Orchestrator `August 2021 - Present`
 - **Engineering**
   - Led the full lifecycle of ArmoniK, an open-source task-based high-throughput computing (HTC) framework for orchestrating large-scale, fault-tolerant workloads across distributed and elastic infrastructures, processing tens of millions of tasks per month in production for major financial institutions
   - Architected and implemented its core on Kubernetes and Terraform, driving its evolution from initial design to production-grade deployments scaling to 12,000+ concurrent workers on a single instance within a single cloud region in hybrid multi-cloud environments
@@ -39,47 +38,42 @@ Product, Engineering & Research Lead, HPC/Cloud
   - Actively participated in pre-sales engagements, contributing to technical proposals, architecture workshops with prospective clients, and commercial positioning of ArmoniK for regulated industries (finance, insurance)
   - Created and launched ArmoniK's training offering, designing the curriculum and delivering 5+ multi-day sessions (presentations, hands-on labs, hackathons) to 5–25 participants per session, both internally and to external clients as a commercial service
 
-**Agentic CFD Simulation Platform** `March 2026 – May 2026`
+#### Agentic CFD Simulation Platform `March 2026 – May 2026`
 - Co-designed the SaaS platform layer for an Agentic CFD Simulation Platform combining a GPU-native CFD solver (AWS ParallelCluster/PCS, NVIDIA H100 GPUs) and a vector database (PostgreSQL with pgvector); designed the platform architecture including identity and access management, usage tracking, platform governance, web-based user interface, and future Bring-Your-Own-Cloud (BYOC) deployment model with usage-based pricing
 - Co-designed the agentic AI orchestration architecture using LLM-based agents (AWS Bedrock with Mistral models) and multi-agent orchestration protocols (MCP, A2A), enabling natural language-driven simulation workflows with human-in-the-loop control across the full simulation lifecycle (configuration, execution, monitoring, analysis); integrated observability via Langfuse and SigNoz
 - Coordinated cross-team delivery across a 7-person team spanning the SaaS platform, the GPU/HPC infrastructure team, and the AI agent development team
 
-**People & Organization** `August 2021 - Present`
+#### People & Organization `August 2021 - Present`
 - Acted as Manager Référent, supporting consultants' career development through roadmap planning, feedback collection, and alignment with Aneo's culture and HR processes, complemented by hands-on technical coaching and long-term mentoring of junior engineers, PhD researchers, and interns
 - Actively involved in strategic recruitment: defined job descriptions, conducted ~20 technical interviews per year, and contributed to onboarding and long-term hiring decisions
 
-`March 2021 - July 2021`
-__CNRS USR3441 Maison de la simulation, Saclay, France__
-Postdoctoral researcher
+### CNRS USR3441 Maison de la simulation, Saclay, France
+`March 2021 - July 2021` — Postdoctoral researcher
 - Contributed to the development and parallelization of a Graph Convolutional Neural Network (GCNN) training and inference library, optimizing for large-scale graph data processing
 - Ported a hybrid MPI + OpenMP implementation of Sparse Matrix-Vector Multiplication (SpMV) to the A64FX architecture, leveraging SIMD vectorization for performance gains
 - Conducted performance benchmarking and scalability analysis on the Fugaku supercomputer, evaluating efficiency across thousands of cores
 
-`March 2018 - March 2021`
-__CNRS USR3441 Maison de la simulation, Saclay, France__
-Ph.D. Student
+### CNRS USR3441 Maison de la simulation, Saclay, France
+`March 2018 - March 2021` — Ph.D. Student
 - Conducted a comprehensive survey and classification of task-based programming paradigms for high-performance computing applications
 - Designed, implemented, and deployed task-parallel scientific applications on large-scale supercomputing platforms
 - Performed experimental evaluations of block-based direct solvers for dense linear systems, sparse matrix-vector multiplication (SpMV), and Kirchhoff pre-stack depth migration in seismic imaging workflows
 - Partially supported by TOTAL SA
 
-`March 2017 - August 2017`
-__CNRS USR3441 Maison de la simulation, Saclay, France__
-Intern — Parallel Programming
+### CNRS USR3441 Maison de la simulation, Saclay, France
+`March 2017 - August 2017` — Intern — Parallel Programming
 - Developed and tested parallel applications using YML and XMP programming models on high-performance computing platforms
 - Conducted performance evaluation and scalability analysis across multiple scientific workloads
 - Designed and prototyped a new parallel implementation of Kirchhoff pre-stack depth migration, targeting improved efficiency and scalability on supercomputers
 
-`May 2016 - July 2016`
-__Norman Info, Arras, France__
-Intern — Jira Platform Migration
+### Norman Info, Arras, France
+`May 2016 - July 2016` — Intern — Jira Platform Migration
 - Migrated the company's project tracking platform across multiple major Jira versions, designing a 3-stage intermediate migration path to safely bridge a large version gap
 - Organized and delivered team training sessions to onboard staff on the migrated platform
 - Applied Scrum to plan and coordinate the migration timeline, gathering feedback to refine configuration post-migration
 
-`August 2015`
-__French Tax Office, Saint-Maur-des-Fossés, France__
-Intern — Administrative Operations
+### French Tax Office, Saint-Maur-des-Fossés, France
+`August 2015` — Intern — Administrative Operations
 - Understanding the sorting system of a big company
 - Managing time efficiently to do all the tasks
 - Helping others to be faster in their work
@@ -87,24 +81,22 @@ Intern — Administrative Operations
 
 ## Lecturer
 
+### Université de Versailles Saint Quentin - High Performance Master, Guyancourt, France
 `December 2022 - Present`
-__Université de Versailles Saint Quentin - High Performance Master, Guyancourt, France__
 - Classes: Numerical calculus
 - Topics: Iterative methods to solve linear systems, band matrices, Lapack, BLAS
 - 12 hours of practical courses.
 
-
+### Institut des Sciences et Techniques des Yvelines, Vélizy, France
 `January 2022 - May 2025`
-__Institut des Sciences et Techniques des Yvelines, Vélizy, France__
 - Classes: Advanced Operating Systems
 - Topics: Elf format, process scheduling, threading, virtual memory
 - Student project: implementing a Shell in C
 - Lecture on "Changes in application development brought by Cloud Computing"
 - 2 hours lecture + 40 hours of practical courses.
 
-
+### Institut des Sciences et Techniques des Yvelines, Vélizy, France
 `March 2018 - June 2018`
-__Institut des Sciences et Techniques des Yvelines, Vélizy, France__
 - Classes: Operating Systems
 - Topics: Unix basic commands, bash scripts, C processes
 - 60 hours of practical courses.
@@ -112,30 +104,30 @@ __Institut des Sciences et Techniques des Yvelines, Vélizy, France__
 
 ## Education
 
+### Ph.D. in Computer Science
 `March 2018 - March 2021`
-__Ph.D. in Computer Science__
 - Thesis title: Distributed and Parallel Programming Paradigms Using Graphs of Tasks for Post-Petascale Supercomputers
 - Advisor: Pr. Serge G. Petiton
 - University of Lille (Lille, France)
 
+### Polytech'Lille, Computer Science and Statistics
 `September 2014 - September 2017`
-__Polytech'Lille, Computer Science and Statistics__
 - Master in Computer Science and Applied Mathematics
 - University of Lille (Lille, France)
 - Degree project: Distributed and parallel multi-level programming on supercomputers using YML+XMP, a development and execution environment for parallel and distributed applications based on a graph of PGAS components managed at runtime
 
+### School of Computer Engineering
 `September 2016 - February 2017`
-__School of Computer Engineering__
 - Master in Informatics Engineering - Erasmus
 - Technical University of Madrid (Boadilla del Monte, Spain)
 
+### Undergraduate Studies
 `September 2012 - July 2014`
-__Undergraduate Studies__
 - Preparatory Classes in Mathematics and Physics: Specific training for competitive entry examinations for the French "Grandes Ecoles"
 - Lycée Clémenceau (Reims, France)
 
+### Scientific Baccalauréat
 `September 2009 - July 2012`
-__Scientific Baccalauréat__
 - Major: Mathematics
 - Lycée Samuel Beckett (La Ferté-sous-Jouarre, France)
 
