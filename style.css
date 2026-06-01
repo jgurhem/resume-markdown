@@ -7,7 +7,6 @@
   --text: #1f2937;
   --muted: #6b7280;
   --bg-code: #f8fafc;
-  --radius: 4px;
 }
 
 @media print {
@@ -80,10 +79,8 @@ h4 {
 }
 
 p {
-  font-family: inherit;
   margin: 0.4rem 0;
 }
-
 
 ul {
   border-left: 3px solid var(--border);
@@ -92,9 +89,8 @@ ul {
   margin: 0.25rem 0 0.5rem 0;
   padding: 0.5rem 0.9rem 0.5rem 1.8rem;
   word-wrap: break-word;
-  white-space: pre-wrap;
-  width: auto;
-  color: #374151;
+  white-space: pre-wrap; /* WeasyPrint requires this to avoid li overlap in PDF */
+  color: var(--text);
 }
 
 li {
@@ -124,7 +120,7 @@ code {
   font-family: inherit;
   font-size: 0.88em;
   padding: 0.1em 0.35em;
-  color: #374151;
+  color: var(--text);
 }
 
 /* Date/tag badges rendered from backtick inline code in markdown headings */
