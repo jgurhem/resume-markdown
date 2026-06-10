@@ -225,7 +225,9 @@ __J. Gurhem__, H. Calandra and S. G. Petiton, "Task-Based Sparse Matrix Vector P
 
 ### Talks
 
-__J. Gurhem__, W.Kirschenmann, "ArmoniK : une solution open source pour l’orchestration et la distribution de calculs", COMPAS 2025 Conférence francophone d'informatique en Parallélisme, Architecture et Système, June 24-27, 2025, Bordeaux, France.
+__J. Gurhem__, F. Lemaitre, "Notre Load Balancer Rust en production : le Bon, la Brute, et l’Async", Rust Paris 2026, June 9, 2026, Paris, France.
+
+__J. Gurhem__, W.Kirschenmann, "ArmoniK : une solution open source pour l’orchestration et la distribution de calculs", COMPAS 2025 Conférence francophone d’informatique en Parallélisme, Architecture et Système, June 24-27, 2025, Bordeaux, France.
 
 __J. Gurhem__, "Resilient Orchestration of Compute-Intensive Workflows: The ArmoniK Framework for HPC and ML", DP2E-AI 2025 - 1st International Workshop on Distributed and Parallel Programming for Extreme-scale AI, June 16-17, 2025, Paris, France.
 
@@ -250,7 +252,7 @@ __English:__ Fluent (C1)
 
 Active technology watch across software engineering, distributed systems, and AI — with a current focus on agentic AI frameworks and AI-assisted development tools, exploring their application to accelerate product development and expand platform capabilities
 
-Speaker at technical meetups and conferences (upcoming: Rust Paris, June 2026), in addition to academic venues (COMPAS, IEEE Cloud Summit, CSMA)
+Speaker at technical meetups and conferences (Rust Paris, COMPAS, IEEE Cloud Summit, CSMA)
 
 Reading (Fantasy, Science-Fiction)
 
