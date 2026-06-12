@@ -38,14 +38,14 @@ Proven track record spanning the full product lifecycle: architecture, developme
   - Actively participated in pre-sales engagements, contributing to technical proposals, architecture workshops with prospective clients, and commercial positioning of ArmoniK for regulated industries (finance, insurance)
   - Created and launched ArmoniK's training offering, designing the curriculum and delivering 5+ multi-day sessions (presentations, hands-on labs, hackathons) to 5–25 participants per session, both internally and to external clients as a commercial service
 
+#### People & Organization `August 2021 - Present`
+- Acted as Manager Référent, supporting consultants' career development through roadmap planning, feedback collection, and alignment with Aneo's culture and HR processes, complemented by hands-on technical coaching and long-term mentoring of junior engineers, PhD researchers, and interns
+- Actively involved in strategic recruitment: defined job descriptions, conducted ~20 technical interviews per year, and contributed to onboarding and long-term hiring decisions
+
 #### Agentic CFD Simulation Platform `March 2026 – May 2026`
 - Co-designed the SaaS platform layer for an Agentic CFD Simulation Platform combining a GPU-native CFD solver (AWS ParallelCluster/PCS, NVIDIA H100 GPUs) and a vector database (PostgreSQL with pgvector); designed the platform architecture including identity and access management, usage tracking, platform governance, web-based user interface, and future Bring-Your-Own-Cloud (BYOC) deployment model with usage-based pricing
 - Co-designed the agentic AI orchestration architecture using LLM-based agents (AWS Bedrock with Mistral models) and multi-agent orchestration protocols (MCP, A2A), enabling natural language-driven simulation workflows with human-in-the-loop control across the full simulation lifecycle (configuration, execution, monitoring, analysis); integrated observability via Langfuse and SigNoz
 - Coordinated cross-team delivery across a 7-person team spanning the SaaS platform, the GPU/HPC infrastructure team, and the AI agent development team
-
-#### People & Organization `August 2021 - Present`
-- Acted as Manager Référent, supporting consultants' career development through roadmap planning, feedback collection, and alignment with Aneo's culture and HR processes, complemented by hands-on technical coaching and long-term mentoring of junior engineers, PhD researchers, and interns
-- Actively involved in strategic recruitment: defined job descriptions, conducted ~20 technical interviews per year, and contributed to onboarding and long-term hiring decisions
 
 ### CNRS USR3441 Maison de la simulation, Saclay, France
 `March 2021 - July 2021` — Postdoctoral researcher
