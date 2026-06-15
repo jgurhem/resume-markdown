@@ -10,9 +10,9 @@
 
 ## About me
 
-HPC, Cloud and SaaS Expert Consultant with a Ph.D. in Computer Science and a strong background in scientific computing, parallel programming, distributed systems, and AI-driven platform design.
+Tech & Research Lead in distributed systems and AI infrastructure, with a Ph.D. in Computer Science and a strong background in scientific computing, parallel programming, and large-scale distributed systems.
 
-Currently Tech & Research Lead for [ArmoniK](https://github.com/aneoconsulting/ArmoniK) at ANEO, an open-source multi-cloud compute orchestrator, with full ownership of the multi-year product roadmap, budget and FTE resource allocation, leading a technical team of ~10 people. Also leading the SaaS architecture and agentic AI orchestration for a GPU-native CFD simulation platform.
+Tech & Research Lead for [ArmoniK](https://github.com/aneoconsulting/ArmoniK) at ANEO — an open-source multi-cloud compute orchestrator running tens of millions of tasks per month in production at tier-1 banks, built in the open with 40+ contributors. I drive it end to end: architecture, multi-year roadmap, budget and FTE allocation, and a ~10-person team. Also leading the SaaS architecture and agentic AI orchestration for a GPU-native CFD simulation platform.
 
 Proven track record spanning the full product lifecycle: architecture, development, R&D, strategic planning, pre-sales, training, customer support, and people management. Passionate about performance challenges, the industrialization of HPC solutions, and the integration of AI into complex engineering workflows.
 
@@ -23,8 +23,10 @@ Proven track record spanning the full product lifecycle: architecture, developme
 
 #### ArmoniK — Open-Source HTC Orchestrator `August 2021 - Present`
 - **Engineering**
-  - Led the full lifecycle of ArmoniK, an open-source task-based high-throughput computing (HTC) framework for orchestrating large-scale, fault-tolerant workloads across distributed and elastic infrastructures, processing tens of millions of tasks per month in production for major financial institutions
+  - Led the full lifecycle of ArmoniK, an open-source task-based high-throughput computing (HTC) framework for orchestrating large-scale, fault-tolerant workloads across distributed and elastic infrastructures, processing tens of millions of tasks per month in production for major financial institutions; project developed fully in the open with 40+ contributors
   - Architected and implemented its core on Kubernetes and Terraform, driving its evolution from initial design to production-grade deployments scaling to 12,000+ concurrent workers on a single instance within a single cloud region in hybrid multi-cloud environments
+  - Migrated tier-1 bank grid workloads off proprietary grid middleware (TIBCO DataSynapse, IBM Spectrum Symphony) onto ArmoniK in production, removing per-core licensing costs and vendor lock-in while enabling cloud elasticity across hybrid multi-cloud
+  - Designed and shipped a production load balancer for ArmoniK in Rust, distributing gRPC (HTTP/2) traffic across workers at 9k req/s/core with linear multi-core scaling, sustaining 20k+ concurrent connections and 100k+ multiplexed streams with a 500 µs overhead; presented at Rust Paris 2026 ("Notre Load Balancer Rust en production")
 - **Product**
   - Owns ArmoniK's multi-year strategic product roadmap and oversees a portfolio of ArmoniK projects representing €700K–€1.2M in annual revenue, defining technical direction, feature prioritization, and delivering major releases on a 6-month cadence in alignment with client needs and market trends
   - Manages ArmoniK's budget and FTE resource allocation, making investment decisions across R&D, engineering, and support — spanning headcount planning, contractor engagement, and cost optimization
@@ -39,7 +41,7 @@ Proven track record spanning the full product lifecycle: architecture, developme
   - Created and launched ArmoniK's training offering, designing the curriculum and delivering 5+ multi-day sessions (presentations, hands-on labs, hackathons) to 5–25 participants per session, both internally and to external clients as a commercial service
 
 #### People & Organization `August 2021 - Present`
-- Acted as Manager Référent, supporting consultants' career development through roadmap planning, feedback collection, and alignment with Aneo's culture and HR processes, complemented by hands-on technical coaching and long-term mentoring of junior engineers, PhD researchers, and interns
+- Acted as career manager ("Manager Référent") for several consultants — owning their development roadmaps, feedback cycles, and alignment with Aneo's culture and HR processes — complemented by hands-on technical coaching and long-term mentoring of junior engineers, PhD researchers, and interns
 - Actively involved in strategic recruitment: defined job descriptions, conducted ~20 technical interviews per year, and contributed to onboarding and long-term hiring decisions
 
 #### Agentic CFD Simulation Platform `March 2026 – May 2026`
@@ -113,7 +115,7 @@ Proven track record spanning the full product lifecycle: architecture, developme
 ### Polytech'Lille, Computer Science and Statistics
 `September 2014 - September 2017`
 - Master in Computer Science and Applied Mathematics
-- University of Lille (Lille, France)
+- Polytech'Lille — French engineering "Grande École", University of Lille (Lille, France)
 - Degree project: Distributed and parallel multi-level programming on supercomputers using YML+XMP, a development and execution environment for parallel and distributed applications based on a graph of PGAS components managed at runtime
 
 ### School of Computer Engineering
@@ -123,7 +125,7 @@ Proven track record spanning the full product lifecycle: architecture, developme
 
 ### Undergraduate Studies
 `September 2012 - July 2014`
-- Preparatory Classes in Mathematics and Physics: Specific training for competitive entry examinations for the French "Grandes Ecoles"
+- Preparatory Classes in Mathematics and Physics (CPGE — two-year intensive program for the competitive entrance exams to France's national "Grandes Écoles")
 - Lycée Clémenceau (Reims, France)
 
 ### Scientific Baccalauréat
